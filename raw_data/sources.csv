@@ -1,0 +1,8 @@
+FILENAME,USAGE,SOURCE
+data/quran_arabic.txt,Arabic text of the Quran,http://tanzil.net/download/
+data/audio/*,Arabic audio files of the Quran,https://everyayah.com/data/status.php
+data/quran_arabic_grammar.txt,Morphological Annotations of the Quran,http://corpus.quran.com/download/
+data/quran_english_translations.txt,English Translations of the Quran,Various Online
+data/quran_surah_names/*,Chapter/Surah names of the Quran,https://github.com/semarketir/quranjson
+data/tanakh/*,tanakh source texts in English and Hebrew,https://github.com/Sefaria/Sefaria-Export
+(not downloaded),Hebrew audio files of the Tanakh,https://www.torahclass.com/audio-bible-in-hebrew
