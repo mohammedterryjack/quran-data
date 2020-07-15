@@ -1,5 +1,5 @@
 ############   NATIVE IMPORTS  ###########################
-from typing import List,Set
+from typing import List,Set,Iterable
 from ujson import load
 from json import dump
 from os.path import exists
@@ -43,20 +43,20 @@ class QuranText:
     def data_packet(self,verse_name:str) -> dict:
         return {
             "VERSE":verse_name,
-            "ARABIC":QURAN.arabic_verse(verse_name),
+            "ARABIC":self.arabic_verse(verse_name),
             "ENGLISH": dict(map(
                 lambda i_verse:
                 (   
                     f"TRANSLATION_{i_verse[0]}",
                     i_verse[1]
                 ),
-                enumerate(QURAN.english_verses(verse_name))
+                enumerate(self.english_verses(verse_name))
             )),
             "CROSS_REFERENCE":{
-                "QURAN":QURAN.CROSS_REFERENCE_QURAN[verse_name],
-                "BIBLE":QURAN.CROSS_REFERENCE_BIBLE[verse_name],
+                "QURAN":self.CROSS_REFERENCE_QURAN[verse_name],
+                "BIBLE":self.CROSS_REFERENCE_BIBLE[verse_name],
             },
-            "FEATURES":QURAN.semantic_features_for_verse(verse_name),
+            "FEATURES":self.semantic_features_for_verse(verse_name),
         }
 
 
@@ -75,20 +75,52 @@ class Bible:
         }
 
 
+class Bible:
+    def __init__(self) -> None:
+        self.BOOKS = {
+            "torah/genesis":"01","torah/exodus":"02","torah/leviticus":"03","torah/numbers":"04","torah/deuteronomy":"05",
+            "prophets/joshua":"06","prophets/judges":"07","prophets/i%20samuel":"08a","prophets/ii%20samuel":"08b",
+            "prophets/i%20kings":"09a","prophets/ii%20kings":"09b","prophets/isaiah":"10","prophets/jeremiah":"11",
+            "prophets/ezekiel":"12","prophets/hosea":"13","prophets/joel":"14","prophets/amos":"15","prophets/obadiah":"16",
+            "prophets/jonah":"17","prophets/micah":"18","prophets/nahum":"19","prophets/habakkuk":"20",
+            "prophets/zephaniah":"21","prophets/haggai":"22","prophets/zechariah":"23","prophets/malachi":"24",
+            "writings/i%20chronicles":"25a","writings/ii%20chronicles":"25b","writings/psalms":"26","writings/job":"27",
+            "writings/proverbs":"28","writings/ruth":"29","writings/song%20of%20songs":"30","writings/ecclesiastes":"31",
+            "writings/lamentations":"32","writings/esther":"33","writings/daniel":"34","writings/ezra":"35a","writings/nehemiah":"35b"
+        }
+
 class BibleText(Bible):
     def __init__(self) -> None:
         super().__init__() 
         self.PATH = "raw_data/tanakh/{directory}/{book}_{language_code}.json"
+        self.FEATURES = self._load_features()
+        self.ENGLISH = self._load(path=self.PATH,language_code="en",book_names=self.BOOKS)
+        self.HEBREW = self._load(path=self.PATH,language_code="he",book_names=self.BOOKS)
         self.VERSE_NAMES = list(self._verse_names())
 
-    def FEATURES(self) -> dict:
-        return self._load_features()
 
-    def ENGLISH(self) -> dict:
-        return self._load(path=self.PATH,language_code="en",book_names=self.BOOKS)
+    def data_packet(self,cannon:str,book:str,chapter:int,verse:int) -> dict:
+        try:
+            return {
+                "VERSE":f"{cannon}:{book}:{chapter}:{verse}",
+                "HEBREW":self.get_verse(json_dictionary=self.HEBREW,cannon=cannon,book=book,chapter=chapter,verse=verse),
+                "ENGLISH":self.get_verse(json_dictionary=self.ENGLISH,cannon=cannon,book=book,chapter=chapter,verse=verse),
+                "FEATURES":self.get_verse(json_dictionary=self.FEATURES,cannon=cannon,book=book,chapter=chapter,verse=verse),            
+            }
+        except Exception as e:
+            print(e)
+            print(cannon,book,chapter,verse)
 
-    def HEBREW(self) -> dict:
-        return self._load(path=self.PATH,language_code="he",book_names=self.BOOKS)
+    def _verse_names(self) -> Iterable[str]:
+        for cannon,books in self.FEATURES.items():
+            for book,chapters in books.items():
+                for chapter_index,verses in enumerate(chapters):
+                    for verse_index,verse_features in enumerate(verses):
+                        yield f"{cannon}:{book}:{chapter_index+1}:{verse_index+1}"
+
+    @staticmethod
+    def get_verse(json_dictionary:dict, cannon:str, book:str, chapter:int, verse:int) -> str:
+        return json_dictionary[cannon][book][chapter-1][verse-1] 
 
     @staticmethod
     def _load_features() -> dict:
@@ -111,11 +143,24 @@ class BibleText(Bible):
                 bible[directory][book] = load(json_file)["text"]
         return bible 
 
-QURAN = QuranText()
-for verse_name in QURAN.VERSE_NAMES:  
-    chapter,verse = verse_name.split(':')  
-    if not exists(f"quran/{chapter}"):
-        makedirs(f"quran/{chapter}")
-    with open(f"quran/{chapter}/{verse}.json","w") as json_file:
-        dump(QURAN.data_packet(verse_name),json_file,indent=4,default=list)
+def generate_bible_files() -> None:
+    BIBLE = BibleText()
+    for verse_name in BIBLE.VERSE_NAMES:
+        cannon,book,chapter,verse = verse_name.split(":")
+        chapter = int(chapter)
+        verse = int(verse)
+        if not exists(f"bible/{cannon}/{book}/{chapter}"):
+            makedirs(f"bible/{cannon}/{book}/{chapter}")
+        with open(f"bible/{cannon}/{book}/{chapter}/{verse}.json","w") as json_file:
+            dump(BIBLE.data_packet(cannon,book,chapter,verse),json_file,indent=4,default=list)
+
+def generate_quran_files() -> None:
+    QURAN = QuranText()
+    for verse_name in QURAN.VERSE_NAMES:  
+        chapter,verse = verse_name.split(':')  
+        if not exists(f"quran/{chapter}"):
+            makedirs(f"quran/{chapter}")
+        with open(f"quran/{chapter}/{verse}.json","w") as json_file:
+            dump(QURAN.data_packet(verse_name),json_file,indent=4,default=list)
     
+generate_bible_files()
