@@ -143,6 +143,19 @@ class BibleText(Bible):
                 bible[directory][book] = load(json_file)["text"]
         return bible 
 
+def generate_metadata_files() -> None:
+    QURAN = QuranText()
+    BIBLE = BibleText()
+    with open("bible/metatadata.json","w") as json_file:
+        dump({
+            "VERSE_NAMES":BIBLE.VERSE_NAMES
+        },json_file,indent=4,default=list)
+    with open("quran/metatadata.json","w") as json_file:
+        dump({
+            "VERSE_NAMES":QURAN.VERSE_NAMES
+        },json_file,indent=4,default=list)
+
+
 def generate_bible_files() -> None:
     BIBLE = BibleText()
     for verse_name in BIBLE.VERSE_NAMES:
@@ -162,3 +175,4 @@ def generate_quran_files() -> None:
             makedirs(f"quran/{chapter}")
         with open(f"quran/{chapter}/{verse}.json","w") as json_file:
             dump(QURAN.data_packet(verse_name),json_file,indent=4,default=list)
+        
