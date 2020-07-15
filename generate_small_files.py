@@ -152,7 +152,8 @@ def generate_metadata_files() -> None:
         },json_file,indent=4,default=list)
     with open("quran/metatadata.json","w") as json_file:
         dump({
-            "VERSE_NAMES":QURAN.VERSE_NAMES
+            "VERSE_NAMES":QURAN.VERSE_NAMES,
+            "CHAPTER_NAMES":QURAN.CHAPTER_NAMES,
         },json_file,indent=4,default=list)
 
 
@@ -175,4 +176,3 @@ def generate_quran_files() -> None:
             makedirs(f"quran/{chapter}")
         with open(f"quran/{chapter}/{verse}.json","w") as json_file:
             dump(QURAN.data_packet(verse_name),json_file,indent=4,default=list)
-        
