@@ -162,5 +162,3 @@ def generate_quran_files() -> None:
             makedirs(f"quran/{chapter}")
         with open(f"quran/{chapter}/{verse}.json","w") as json_file:
             dump(QURAN.data_packet(verse_name),json_file,indent=4,default=list)
-    
-generate_bible_files()
