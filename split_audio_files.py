@@ -5,13 +5,18 @@ from pydub.silence import split_on_silence
 ############   LOCAL IMPORTS   ###########################
 ##########################################################
 
-FILENAME = "bla"
+FILENAME = "001"
 AUDIO_FORMAT = "mp3"
-PATH_IN = f"raw_data/audio_to_split/{FILENAME}.{AUDIO_FORMAT}"
-SILENCE_IN_MILISECONDS = 500
+PATH_TO_FFMPEG = "C:\\Users\\mdtj500\\desktop\\ffmpeg\\bin\\ffmpeg.exe"
+PATH_IN = f"raw_data/audio_to_split/hamza_nuh/{FILENAME}.{AUDIO_FORMAT}"
+SILENCE_IN_MILISECONDS = 1500
 LOUDNESS_IN_DBFS = -16
 
-for index, audio_chunk in enumerate(
+AudioSegment.ffmpeg = PATH_TO_FFMPEG
+AudioSegment.converter = PATH_TO_FFMPEG
+AudioSegment.ffprobe = PATH_TO_FFMPEG
+
+for INDEX, audio_chunk in enumerate(
     split_on_silence(
         audio_segment=AudioSegment.from_mp3(PATH_IN), 
         min_silence_len=SILENCE_IN_MILISECONDS,
