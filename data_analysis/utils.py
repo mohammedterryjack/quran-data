@@ -1,6 +1,6 @@
 ############   NATIVE IMPORTS  ###########################
 from typing import Dict, Set
-from json import dump
+from json import dump,load
 ############ INSTALLED IMPORTS ###########################
 from pandas import read_csv, concat, DataFrame
 from sklearn.feature_extraction.text import CountVectorizer
@@ -151,7 +151,7 @@ def generate_arabic_feature_set(arabic_features:DataFrame) -> dict:
 
     return vector_features
 
-def analyse_quran_english_parallels_file() -> DataFrame:
+def analyse_quran_english_parallels_file() -> DataFrame:        
     with open(RawQuranEnglishParallels._PATH.format(
             filename=RawQuranEnglishParallels._FILENAME,
         ),
@@ -239,6 +239,8 @@ def save_searchable_quran_to_file(path:str, arabic_feature_sets:Dict[str,Set[str
     """ this stores the quran in a format that can be queried for similar verses to json files (verse similarities are pre-computed) """
     analyse_quran_arabic_file().to_json(f"{path}/quran_ar.json",orient="index")
     english_quran = analyse_quran_english_parallels_file()
+    with open("raw_data/quran_aisha_bewley.json") as json_file:
+        english_quran_bewley = load(json_file)
     english_quran.to_json(f"{path}/quran_en.json", orient='index')
     quran = DataFrame(
         arabic_feature_sets.items(),
@@ -246,7 +248,7 @@ def save_searchable_quran_to_file(path:str, arabic_feature_sets:Dict[str,Set[str
     )
     quran["SEMANTIC FEATURES"] = [
         set_of_semantic_features_for_sentences(
-            sentences=sentences[:-3]
+            sentences=sentences[:-3] 
         ) for sentences in english_quran["ENGLISH"].to_list()
     ]    
     quran["SEMANTIC FEATURES"].to_json(f"{path}/quran_features.json", orient='index')

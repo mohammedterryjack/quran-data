@@ -6,12 +6,15 @@ from os.path import exists
 from os import makedirs
 ############ INSTALLED IMPORTS ###########################
 ############   LOCAL IMPORTS   ###########################
+from data_analysis.semantic_featuriser import set_of_semantic_features_for_sentence
 ##########################################################
 
 class QuranText:
-    def __init__(self) -> None:               
+    def __init__(self) -> None:     
         with open("raw_data/mushaf/quran_en.json") as json_file:
             self.ENGLISH = load(json_file) 
+        with open("raw_data/quran_aisha_bewley.json") as json_file:
+            self.another_english = load(json_file)
         with open("raw_data/mushaf/quran_features.json") as json_file:
             self.FEATURES = load(json_file)
         with open("raw_data/mushaf/quran_ar.json") as json_file:
@@ -22,6 +25,7 @@ class QuranText:
             self.CROSS_REFERENCE_BIBLE = load(json_file)
         self.VERSE_NAMES = list(self.ENGLISH.keys())
         self.CHAPTER_NAMES = self._get_surah_names()
+        self.CHAPTER_SIZES = self._get_surah_sizes()
     
     def _get_surah_names(self) -> List[str]:
         surah_names = []
@@ -29,16 +33,32 @@ class QuranText:
             with open(f"raw_data/quran_surah_names/surah_{index}.json", encoding='utf-8') as json_file:
                 surah_names.append(load(json_file)["name"])
         return surah_names
+    
+    def _get_surah_sizes(self) -> List[int]:
+        prev_chapter = "1"
+        prev_verse = None
+        surah_sizes = []
+        for verse_key in self.VERSE_NAMES:
+            chapter,verse = verse_key.split(":")
+            if chapter != prev_chapter:
+                surah_sizes.append(int(prev_verse))
+                prev_chapter = chapter
+            prev_verse = verse
+        surah_sizes.append(int(prev_verse))
+        return surah_sizes
 
     def arabic_verse(self,verse:str) -> str:
         return self.ARABIC[verse]["ARABIC"]
 
     def english_verses(self,verse:str) -> str:
-        return self.ENGLISH[verse]["ENGLISH"][:-1]
+        return [self.another_english[verse]] + self.ENGLISH[verse]["ENGLISH"][:-1]
 
     def semantic_features_for_verse(self, verse:str) -> Set[str]:
+        bewley_features = set_of_semantic_features_for_sentence(
+            sentence=self.another_english[verse]
+        )
         index = str(self.VERSE_NAMES.index(verse))
-        return set(self.FEATURES[index])
+        return set(self.FEATURES[index]) | bewley_features
     
     def data_packet(self,verse_name:str) -> dict:
         return {
@@ -154,6 +174,7 @@ def generate_metadata_files() -> None:
         dump({
             "VERSE_NAMES":QURAN.VERSE_NAMES,
             "CHAPTER_NAMES":QURAN.CHAPTER_NAMES,
+            "CHAPTER_SIZES":QURAN.CHAPTER_SIZES
         },json_file,indent=4,default=list)
 
 
