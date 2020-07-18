@@ -5,8 +5,8 @@ from pydub import AudioSegment
 from pydub.silence import split_on_silence
 ############   LOCAL IMPORTS   ###########################
 ##########################################################
-def split_audio_file(filename:str) -> None:
-    PATH_IN = f"raw_data/audio_to_split/hamza_nuh/{filename}.{AUDIO_FORMAT}"
+def split_audio_file(path:str,filename:str) -> None:
+    PATH_IN = f"raw_data/audio_to_split/{path}{filename}.{AUDIO_FORMAT}"
     for INDEX, audio_chunk in enumerate(
         split_on_silence(
             audio_segment=AudioSegment.from_mp3(PATH_IN), 
@@ -30,18 +30,19 @@ def join_two_audio_files(filename_1:str,filename_2:str) -> None:
 parser = ArgumentParser()
 parser.add_argument("--split",action="store_true",default=False)
 parser.add_argument("--merge",action="store_true",default=False)
+parser.add_argument("--path",default="/")
 parser.add_argument("--filename")
 parser.add_argument("--filename_2")
 parser.add_argument("--silence",type=int,default=1000)
+parser.add_argument("--loudness",type=int,default=-16)
 args = parser.parse_args()
 
-SILENCE_IN_MILISECONDS = args.silence
 AUDIO_FORMAT = "mp3"
-PATH_TO_FFMPEG = "C:\\Users\\mdtj500\\desktop\\ffmpeg\\bin\\ffmpeg.exe"
-LOUDNESS_IN_DBFS = -16
+SILENCE_IN_MILISECONDS = args.silence
+LOUDNESS_IN_DBFS = args.loudness
 
 if args.split:
-    split_audio_file(filename=args.filename)
+    split_audio_file(path=args.path,filename=args.filename)
 
 if args.merge:
     join_two_audio_files(filename_1=args.filename, filename_2=args.filename_2)
