@@ -1,12 +1,13 @@
 ############   NATIVE IMPORTS  ###########################
 from argparse import ArgumentParser
+from os import listdir
 ############ INSTALLED IMPORTS ###########################
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
 ############   LOCAL IMPORTS   ###########################
 ##########################################################
 def split_audio_file(path:str,filename:str) -> None:
-    PATH_IN = f"raw_data/audio_to_split/{path}{filename}.{AUDIO_FORMAT}"
+    PATH_IN = f"{path}{filename}.{AUDIO_FORMAT}"
     for INDEX, audio_chunk in enumerate(
         split_on_silence(
             audio_segment=AudioSegment.from_mp3(PATH_IN), 
@@ -30,7 +31,8 @@ def join_two_audio_files(filename_1:str,filename_2:str) -> None:
 parser = ArgumentParser()
 parser.add_argument("--split",action="store_true",default=False)
 parser.add_argument("--merge",action="store_true",default=False)
-parser.add_argument("--path",default="/")
+parser.add_argument("--path",default="raw_data/audio_to_split/")
+parser.add_argument("--filename_endswith")
 parser.add_argument("--filename")
 parser.add_argument("--filename_2")
 parser.add_argument("--silence",type=int,default=1000)
@@ -42,7 +44,15 @@ SILENCE_IN_MILISECONDS = args.silence
 LOUDNESS_IN_DBFS = args.loudness
 
 if args.split:
-    split_audio_file(path=args.path,filename=args.filename)
+    if args.filename_endswith:
+        filenames = list(
+            name.replace(f".{AUDIO_FORMAT}","") for name in listdir(args.path) if name.endswith(f"{args.filename_endswith}.{AUDIO_FORMAT}")
+        )
+        input(f"{filenames}")
+        for filename in filenames:
+            split_audio_file(path=args.path,filename=filename)
+    else:
+        split_audio_file(path=args.path,filename=args.filename)
 
 if args.merge:
     join_two_audio_files(filename_1=args.filename, filename_2=args.filename_2)
