@@ -54,6 +54,12 @@ try:
 except:
     pass 
 
+
+for key,correction in {
+    "30/30": "So set your face firmly towards the Deen, as a pure natural believer, Allah's natural pattern on which He made mankind. There is no changing Allah’s creation. That is the true Deen – but most people do not know it "
+}:
+    quran[key] = correction
+
 with open("quran_aisha_bewley.json","w") as f:
     dump(quran,f,indent=4)
 
