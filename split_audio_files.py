@@ -32,7 +32,7 @@ parser = ArgumentParser()
 parser.add_argument("--split",action="store_true",default=False)
 parser.add_argument("--merge",action="store_true",default=False)
 parser.add_argument("--path",default="raw_data/audio_to_split/")
-parser.add_argument("--filename_endswith")
+parser.add_argument("--filename_startswith")
 parser.add_argument("--filename")
 parser.add_argument("--filename_2")
 parser.add_argument("--silence",type=int,default=1000)
@@ -44,9 +44,9 @@ SILENCE_IN_MILISECONDS = args.silence
 LOUDNESS_IN_DBFS = args.loudness
 
 if args.split:
-    if args.filename_endswith:
+    if args.filename_startswith:
         filenames = list(
-            name.replace(f".{AUDIO_FORMAT}","") for name in listdir(args.path) if name.endswith(f"{args.filename_endswith}.{AUDIO_FORMAT}")
+            name.replace(f".{AUDIO_FORMAT}","") for name in listdir(args.path) if name.startswith(args.filename_startswith) and name.endswith(f".{AUDIO_FORMAT}")
         )
         input(f"{filenames}")
         for filename in filenames:
