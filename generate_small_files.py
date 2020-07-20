@@ -31,13 +31,13 @@ class QuranText:
     def _get_keywords(self) -> Dict[str,List[str]]:
         keywords = {}
         for verse_index,features in self.FEATURES.items():
-            verse_name = self.VERSE_NAMES[int(verse_index)]
+            verse_index = int(verse_index)
             for feature in features:
                 if feature.islower():
                     if feature in keywords:
-                        keywords[feature].add(verse_name)
+                        keywords[feature].add(verse_index)
                     else:
-                        keywords[feature] = {verse_name}
+                        keywords[feature] = {verse_index}
         return keywords
 
     def _get_surah_names(self) -> List[str]:
@@ -142,13 +142,14 @@ class BibleText(Bible):
                         verse = int(verse)+1
 
                         verse_name = f"{cannon}:{book}:{chapter}:{verse}"
+                        verse_index = self.VERSE_NAMES.index(verse_name)
 
                         for feature in features:
                             if feature.islower():
                                 if feature in keywords:
-                                    keywords[feature].add(verse_name)
+                                    keywords[feature].add(verse_index)
                                 else:
-                                    keywords[feature] = {verse_name}
+                                    keywords[feature] = {verse_index}
         return keywords
 
     def data_packet(self,cannon:str,book:str,chapter:int,verse:int) -> dict:
@@ -198,12 +199,12 @@ class BibleText(Bible):
 def generate_metadata_files() -> None:
     QURAN = QuranText()
     BIBLE = BibleText()
-    with open("bible/metatadata.json","w") as json_file:
+    with open("bible/metadata.json","w") as json_file:
         dump({
             "VERSE_NAMES":BIBLE.VERSE_NAMES,
             "KEYWORDS":BIBLE.KEYWORDS
         },json_file,indent=4,default=list)
-    with open("quran/metatadata.json","w") as json_file:
+    with open("quran/metadata.json","w") as json_file:
         dump({
             "VERSE_NAMES":QURAN.VERSE_NAMES,
             "CHAPTER_NAMES":QURAN.CHAPTER_NAMES,
