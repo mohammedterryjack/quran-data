@@ -1,5 +1,5 @@
 ############   NATIVE IMPORTS  ###########################
-from typing import List,Set,Iterable
+from typing import List,Set,Iterable,Dict
 from ujson import load
 from json import dump
 from os.path import exists
@@ -26,7 +26,20 @@ class QuranText:
         self.VERSE_NAMES = list(self.ENGLISH.keys())
         self.CHAPTER_NAMES = self._get_surah_names()
         self.CHAPTER_SIZES = self._get_surah_sizes()
+        self.KEYWORDS = self._get_keywords()
     
+    def _get_keywords(self) -> Dict[str,List[str]]:
+        keywords = {}
+        for verse_index,features in self.FEATURES.items():
+            verse_name = self.VERSE_NAMES[int(verse_index)]
+            for feature in features:
+                if feature.islower():
+                    if feature in keywords:
+                        keywords[feature].add(verse_name)
+                    else:
+                        keywords[feature] = {verse_name}
+        return keywords
+
     def _get_surah_names(self) -> List[str]:
         surah_names = []
         for index in range(1,115):
@@ -76,7 +89,7 @@ class QuranText:
                 "QURAN":self.CROSS_REFERENCE_QURAN[verse_name],
                 "BIBLE":self.CROSS_REFERENCE_BIBLE[verse_name],
             },
-            "FEATURES":self.semantic_features_for_verse(verse_name),
+            #"FEATURES":self.semantic_features_for_verse(verse_name),
         }
 
 
@@ -117,7 +130,26 @@ class BibleText(Bible):
         self.ENGLISH = self._load(path=self.PATH,language_code="en",book_names=self.BOOKS)
         self.HEBREW = self._load(path=self.PATH,language_code="he",book_names=self.BOOKS)
         self.VERSE_NAMES = list(self._verse_names())
+        self.KEYWORDS = self._get_keywords()
 
+    def _get_keywords(self) -> Dict[str,List[str]]:
+        keywords = {}
+        for cannon,books in self.FEATURES.items():
+            for book,chapters in books.items():
+                for chapter,verses in enumerate(chapters):
+                    chapter = int(chapter)+1
+                    for verse,features in enumerate(verses):
+                        verse = int(verse)+1
+
+                        verse_name = f"{cannon}:{book}:{chapter}:{verse}"
+
+                        for feature in features:
+                            if feature.islower():
+                                if feature in keywords:
+                                    keywords[feature].add(verse_name)
+                                else:
+                                    keywords[feature] = {verse_name}
+        return keywords
 
     def data_packet(self,cannon:str,book:str,chapter:int,verse:int) -> dict:
         try:
@@ -125,7 +157,7 @@ class BibleText(Bible):
                 "VERSE":f"{cannon}:{book}:{chapter}:{verse}",
                 "HEBREW":self.get_verse(json_dictionary=self.HEBREW,cannon=cannon,book=book,chapter=chapter,verse=verse),
                 "ENGLISH":self.get_verse(json_dictionary=self.ENGLISH,cannon=cannon,book=book,chapter=chapter,verse=verse),
-                "FEATURES":self.get_verse(json_dictionary=self.FEATURES,cannon=cannon,book=book,chapter=chapter,verse=verse),            
+                #"FEATURES":self.get_verse(json_dictionary=self.FEATURES,cannon=cannon,book=book,chapter=chapter,verse=verse),            
             }
         except Exception as e:
             print(e)
@@ -168,13 +200,15 @@ def generate_metadata_files() -> None:
     BIBLE = BibleText()
     with open("bible/metatadata.json","w") as json_file:
         dump({
-            "VERSE_NAMES":BIBLE.VERSE_NAMES
+            "VERSE_NAMES":BIBLE.VERSE_NAMES,
+            "KEYWORDS":BIBLE.KEYWORDS
         },json_file,indent=4,default=list)
     with open("quran/metatadata.json","w") as json_file:
         dump({
             "VERSE_NAMES":QURAN.VERSE_NAMES,
             "CHAPTER_NAMES":QURAN.CHAPTER_NAMES,
-            "CHAPTER_SIZES":QURAN.CHAPTER_SIZES
+            "CHAPTER_SIZES":QURAN.CHAPTER_SIZES,
+            "KEYWORDS":QURAN.KEYWORDS
         },json_file,indent=4,default=list)
 
 
