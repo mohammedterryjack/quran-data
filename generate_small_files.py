@@ -32,7 +32,7 @@ class QuranText:
         keywords = {}
         for verse_index,features in self.FEATURES.items():
             verse_index = int(verse_index)
-            verse_name = self.VERSE_NAMES.index(verse_index)
+            verse_name = self.VERSE_NAMES[verse_index]
             for feature in features:
                 if feature.islower() and ".n." in feature:
                     if feature in keywords:
@@ -232,3 +232,5 @@ def generate_quran_files() -> None:
             makedirs(f"quran/{chapter}")
         with open(f"quran/{chapter}/{verse}.json","w") as json_file:
             dump(QURAN.data_packet(verse_name),json_file,indent=4,default=list)
+
+generate_metadata_files()
