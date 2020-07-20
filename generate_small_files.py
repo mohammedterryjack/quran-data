@@ -32,12 +32,13 @@ class QuranText:
         keywords = {}
         for verse_index,features in self.FEATURES.items():
             verse_index = int(verse_index)
+            verse_name = self.VERSE_NAMES.index(verse_index)
             for feature in features:
-                if feature.islower():
+                if feature.islower() and ".n." in feature:
                     if feature in keywords:
-                        keywords[feature].add(verse_index)
+                        keywords[feature].add(verse_name)
                     else:
-                        keywords[feature] = {verse_index}
+                        keywords[feature] = {verse_name}
         return keywords
 
     def _get_surah_names(self) -> List[str]:
@@ -142,14 +143,13 @@ class BibleText(Bible):
                         verse = int(verse)+1
 
                         verse_name = f"{cannon}:{book}:{chapter}:{verse}"
-                        verse_index = self.VERSE_NAMES.index(verse_name)
 
                         for feature in features:
-                            if feature.islower():
+                            if feature.islower() and ".n." in feature:
                                 if feature in keywords:
-                                    keywords[feature].add(verse_index)
+                                    keywords[feature].add(verse_name)
                                 else:
-                                    keywords[feature] = {verse_index}
+                                    keywords[feature] = {verse_name}
         return keywords
 
     def data_packet(self,cannon:str,book:str,chapter:int,verse:int) -> dict:
