@@ -35,6 +35,7 @@ class RawQuranArabicGrammarCSVHeaders:
     _LEMMA_PREFIX = "LEM:"
     _ROOT_PREFIX = "ROOT:"       
 
+
 def generate_bible_features() -> None:
     """
     get semantic and syntactic features from bible verses
