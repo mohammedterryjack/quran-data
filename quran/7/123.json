@@ -1,0 +1,63 @@
+{
+    "VERSE": "7:123",
+    "ARABIC": "\u0642\u064e\u0627\u0644\u064e \u0641\u0650\u0631\u0652\u0639\u064e\u0648\u0652\u0646\u064f \u0621\u064e\u0627\u0645\u064e\u0646\u062a\u064f\u0645 \u0628\u0650\u0647\u0650\u06e6 \u0642\u064e\u0628\u0652\u0644\u064e \u0623\u064e\u0646\u0652 \u0621\u064e\u0627\u0630\u064e\u0646\u064e \u0644\u064e\u0643\u064f\u0645\u0652 \u0625\u0650\u0646\u0651\u064e \u0647\u064e\u0670\u0630\u064e\u0627 \u0644\u064e\u0645\u064e\u0643\u0652\u0631\u064c \u0645\u0651\u064e\u0643\u064e\u0631\u0652\u062a\u064f\u0645\u064f\u0648\u0647\u064f \u0641\u0650\u0649 \u0671\u0644\u0652\u0645\u064e\u062f\u0650\u064a\u0646\u064e\u0629\u0650 \u0644\u0650\u062a\u064f\u062e\u0652\u0631\u0650\u062c\u064f\u0648\u0627\u06df \u0645\u0650\u0646\u0652\u0647\u064e\u0627\u0653 \u0623\u064e\u0647\u0652\u0644\u064e\u0647\u064e\u0627 \u0641\u064e\u0633\u064e\u0648\u0652\u0641\u064e \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0646\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "Pharaoh said, 'Have you had iman in him before I authorised you to do so? This is just some plot you have concocted in the city to drive its people from it.",
+        "TRANSLATION_1": "But Pharaoh said: \"You have come to accept belief in Him without my permission! This surely is a plot you have hatched to expel the people from the land. You will soon come to know.\n",
+        "TRANSLATION_2": "Pharaoh said: 'What! Do you believe before you have my permission? Surely this is a plot you have contrived to drive out the rulers from the capital. So you shall see,\n",
+        "TRANSLATION_3": "The Pharaoh said to the magicians, \"You declared your belief in him (Moses) without my permission. This is a plot to throw my people out of their city. But you will soon know.\n",
+        "TRANSLATION_4": "Said Firaun, \u201cYou have accepted faith in Him before I gave you permission! This is indeed a grand conspiracy you have plotted in the city, in order to expel its people from it; so now you will come to know!\u201d\n",
+        "TRANSLATION_5": "Fir`awn said: \"You have believed in him [Musa] before I gave you permission. Surely, this is a plot which you have plotted in the city to drive out its people, but you shall come to know.\"\n",
+        "TRANSLATION_6": "Firon said: Do you believe in Him before I have given you permission? Surely this is a plot which you have secretly devised in this city, that you may turn out of it its people, but you shall know:\n",
+        "TRANSLATION_7": "Said Pharaoh, 'You have believed in Him before I gave you leave. Surely this is a device you have devised in the city that you may expel its people from it. Now you shall know!\n",
+        "TRANSLATION_8": "Pharaoh said: Ye believe in Him before I give you leave! Lo! this is the plot that ye have plotted in the city that ye may drive its people hence. But ye shall come to know!\n",
+        "TRANSLATION_9": "Pharaoh said, \"You dare believe in Him before I have given you permission? Behold, this is indeed a plot which you have devised in this city in order to drive its people out. But you shall soon know the consequences,\n",
+        "TRANSLATION_10": "Fir'awn said:? believed ye in him ere I have given you leave? Verily this is a plot ye have plotted in the city that ye may drive forth the people thereof So presently ye shall know.\n",
+        "TRANSLATION_11": "Pharaoh said, \u2018Do you profess faith in Him before I may permit you? It is indeed a plot you have devised in the city to expel its people from it. Soon you will know [the consequences]!\n",
+        "TRANSLATION_12": "Said Pharaoh: \"Believe ye in Him before I give you permission? Surely this is a trick which ye have planned in the city to drive out its people: but soon shall ye know (the consequences).\n",
+        "TRANSLATION_13": "Fir'aun (Pharaoh) said: \"You have believed in him [Musa (Moses)] before I give you permission. Surely, this is a plot which you have plotted in the city to drive out its people, but you shall come to know.\n",
+        "TRANSLATION_14": "Pharaoh said: 'Do you believe in Him before I permit? This is a plot that you have contrived in the city in order to expel its people from it. Now you shall know!\n",
+        "TRANSLATION_15": "Pharaoh said, \u201cDid you believe in Him before I have given you permission? This is surely a conspiracy you schemed in the city, in order to expel its people from it. You will surely know.\u201d\n",
+        "TRANSLATION_16": "Said Pharaoh, \"You believed in him before I gave you permission. Indeed, this is a conspiracy which you conspired in the city to expel therefrom its people. But you are going to know.\n",
+        "TRANSLATION_17": "[7:123] Pharaoh said, \u2018Have you believed (a-\u0101mantum, read pronouncing both hamzas, and replacing the second one with an alif) in him, in Moses, before I gave you leave? Surely this, that you have done, is a plot you have plotted in the city that you may expel its people from it. But you shall come to know, what I will do to you!\n",
+        "TRANSLATION_18": "(Pharaoh said: You believe in Him) you believed in the Lord of Moses and Aaron (before I give you leave) before I command you to do so! (Lo! this is the plot that ye have plotted in the city) between you and Moses (that ye may drive its people hence) by means of guile. (But ye shall come to know!)\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "7:123",
+            "21:76",
+            "52:26",
+            "20:10",
+            "28:18",
+            "15:67",
+            "3:143",
+            "28:12",
+            "48:15",
+            "26:49"
+        ],
+        "BIBLE": [
+            "torah:numbers:20:12",
+            "torah:exodus:6:1",
+            "torah:numbers:32:7",
+            "torah:numbers:27:12",
+            "prophets:joshua:23:13",
+            "torah:exodus:9:29",
+            "prophets:ii%20kings:4:43",
+            "torah:deuteronomy:2:9",
+            "prophets:amos:9:15",
+            "prophets:jeremiah:16:15"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:1:3",
+            "Sefer%20Yetzirah:3:2"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "VERSE": "101:1",
+    "ARABIC": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0671\u0644\u0644\u0651\u064e\u0647\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0671\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f",
+    "ENGLISH": {
+        "TRANSLATION_0": "The Crashing Blow!",
+        "TRANSLATION_1": "THE STARTLING CALAMITY.\n",
+        "TRANSLATION_2": "The Calamity!\n",
+        "TRANSLATION_3": "The (unprecedented) crash!\n",
+        "TRANSLATION_4": "The event that terrifies the hearts!\n",
+        "TRANSLATION_5": "Al-Qari`ah.\n",
+        "TRANSLATION_6": "The terrible calamity!\n",
+        "TRANSLATION_7": "The Clatterer!\n",
+        "TRANSLATION_8": "The Calamity!\n",
+        "TRANSLATION_9": "The Clatterer!\n",
+        "TRANSLATION_10": "The Striking!\n",
+        "TRANSLATION_11": "The Catastrophe!\n",
+        "TRANSLATION_12": "The (Day) of Noise and Clamour:\n",
+        "TRANSLATION_13": "Al-Qari'ah (the striking Hour i.e. the Day of Resurrection),\n",
+        "TRANSLATION_14": "The Clatterer (the Day of Judgement)!\n",
+        "TRANSLATION_15": "The Shocker.\n",
+        "TRANSLATION_16": "The Striking Calamity -\n",
+        "TRANSLATION_17": "[101:1] The Clattering Blow, the Resurrection that will make hearts clatter by its terrors.\n",
+        "TRANSLATION_18": "And from his narration on the authority of Ibn 'Abbas that he said regarding the interpretation of Allah's saying (Calamity! What is the Calamity?): '(Calamity!\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "101:1",
+            "101:2",
+            "101:3",
+            "69:4",
+            "103:1",
+            "69:1",
+            "51:2",
+            "15:91",
+            "87:4",
+            "55:2"
+        ],
+        "BIBLE": [
+            "writings:ecclesiastes:2:23",
+            "prophets:jeremiah:23:20",
+            "prophets:jeremiah:30:24",
+            "torah:leviticus:23:27",
+            "prophets:jeremiah:4:9",
+            "prophets:malachi:3:24",
+            "writings:psalms:13:3",
+            "writings:esther:9:17",
+            "torah:leviticus:25:9",
+            "writings:proverbs:23:17"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:4:6",
+            "Sefer%20Yetzirah:4:10",
+            "Sefer%20Yetzirah:4:7",
+            "Sefer%20Yetzirah:4:8",
+            "Sefer%20Yetzirah:4:3",
+            "Sefer%20Yetzirah:4:9",
+            "Sefer%20Yetzirah:6:2",
+            "Sefer%20Yetzirah:2:6",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:1:8"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "VERSE": "80:10",
+    "ARABIC": "\u0641\u064e\u0623\u064e\u0646\u062a\u064e \u0639\u064e\u0646\u0652\u0647\u064f \u062a\u064e\u0644\u064e\u0647\u0651\u064e\u0649\u0670",
+    "ENGLISH": {
+        "TRANSLATION_0": "from him you are distracted.",
+        "TRANSLATION_1": "You neglect.\n",
+        "TRANSLATION_2": "you pay no heed to him.\n",
+        "TRANSLATION_3": "you ignore him.\n",
+        "TRANSLATION_4": "So you leave him, and are engrossed elsewhere!\n",
+        "TRANSLATION_5": "Of him you are neglectful and divert your attention to another.\n",
+        "TRANSLATION_6": "From him will you divert yourself.\n",
+        "TRANSLATION_7": "to him thou payest no heed.\n",
+        "TRANSLATION_8": "From him thou art distracted.\n",
+        "TRANSLATION_9": "you pay him no heed.\n",
+        "TRANSLATION_10": "Him thou neglectest!\n",
+        "TRANSLATION_11": "you are neglectful of him.\n",
+        "TRANSLATION_12": "Of him wast thou unmindful.\n",
+        "TRANSLATION_13": "Of him you are neglectful and divert your attention to another,\n",
+        "TRANSLATION_14": "of him you were unmindful.\n",
+        "TRANSLATION_15": "To him you were inattentive.\n",
+        "TRANSLATION_16": "From him you are distracted.\n",
+        "TRANSLATION_17": "[80:10] to him you pay no heed (talahh\u0101: the original second t\u0101\u2019 [of tatalahh\u0101] has been omitted), that is to say, from him you are distracted [by other things].\n",
+        "TRANSLATION_18": "(From him thou) O Muhammad (art distracted) being busy with those three men.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "80:10",
+            "80:6",
+            "51:9",
+            "38:68",
+            "37:90",
+            "44:14",
+            "78:1",
+            "15:93",
+            "43:75",
+            "10:56"
+        ],
+        "BIBLE": [
+            "writings:psalms:118:21",
+            "torah:numbers:10:31",
+            "prophets:isaiah:65:15",
+            "prophets:i%20kings:19:18",
+            "torah:genesis:28:15",
+            "prophets:i%20samuel:10:2",
+            "torah:deuteronomy:32:18",
+            "writings:psalms:22:26",
+            "prophets:obadiah:1:5",
+            "writings:psalms:118:28"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:13",
+            "Sefer%20Yetzirah:4:1",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:5:1",
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:1:4",
+            "Sefer%20Yetzirah:2:4"
+        ]
+    }
+}

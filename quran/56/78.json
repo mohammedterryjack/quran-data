@@ -1,0 +1,63 @@
+{
+    "VERSE": "56:78",
+    "ARABIC": "\u0641\u0650\u0649 \u0643\u0650\u062a\u064e\u0670\u0628\u064d \u0645\u0651\u064e\u0643\u0652\u0646\u064f\u0648\u0646\u064d",
+    "ENGLISH": {
+        "TRANSLATION_0": "in a well protected Book.",
+        "TRANSLATION_1": "(Inscribed) in the well-kept Book.\n",
+        "TRANSLATION_2": "inscribed in a well-guarded Book,\n",
+        "TRANSLATION_3": "preserved in a hidden Book which\n",
+        "TRANSLATION_4": "Kept in a secure Book.\n",
+        "TRANSLATION_5": "In a Book Maknun.\n",
+        "TRANSLATION_6": "In a book that is protected\n",
+        "TRANSLATION_7": "in a hidden Book\n",
+        "TRANSLATION_8": "In a Book kept hidden\n",
+        "TRANSLATION_9": "in a well-guarded preserved Book,\n",
+        "TRANSLATION_10": "In a Book Hidden.\n",
+        "TRANSLATION_11": "in a guarded Book\n",
+        "TRANSLATION_12": "In Book well-guarded,\n",
+        "TRANSLATION_13": "In a Book well-guarded (with Allah in the heaven i.e. Al-Lauh Al-Mahfuz).\n",
+        "TRANSLATION_14": "in a Book protected (from tampering)\n",
+        "TRANSLATION_15": "In a well-protected Book.\n",
+        "TRANSLATION_16": "In a Register well-protected;\n",
+        "TRANSLATION_17": "[56:78] in a Book, inscribed, guarded, preserved, and this is the Mushaf;\n",
+        "TRANSLATION_18": "(In a Book kept hidden) it is written down in the Guarded Tablet; and this is why the oath was made\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "56:78",
+            "83:20",
+            "83:9",
+            "52:2",
+            "44:2",
+            "43:2",
+            "68:37",
+            "98:3",
+            "37:157",
+            "83:7"
+        ],
+        "BIBLE": [
+            "writings:job:19:23",
+            "prophets:haggai:1:10",
+            "writings:psalms:119:56",
+            "prophets:isaiah:30:8",
+            "writings:psalms:18:24",
+            "prophets:ii%20kings:23:21",
+            "writings:ii%20chronicles:34:21",
+            "writings:psalms:19:12",
+            "writings:nehemiah:8:18",
+            "prophets:ii%20samuel:22:24"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:12",
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:3:3",
+            "Sefer%20Yetzirah:5:4",
+            "Sefer%20Yetzirah:1:4",
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:6:5",
+            "Sefer%20Yetzirah:4:3",
+            "Sefer%20Yetzirah:1:5",
+            "Sefer%20Yetzirah:4:12"
+        ]
+    }
+}

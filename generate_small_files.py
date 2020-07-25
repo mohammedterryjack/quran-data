@@ -5,8 +5,9 @@ from json import dump
 from os.path import exists
 from os import makedirs
 ############ INSTALLED IMPORTS ###########################
+from numpy import argsort
 ############   LOCAL IMPORTS   ###########################
-from data_analysis.semantic_featuriser import set_of_semantic_features_for_sentence
+from data_analysis.semantic_featuriser import set_of_semantic_features_for_sentence, cosine_similarity_for_sets
 ##########################################################
 
 class QuranText:
@@ -23,11 +24,33 @@ class QuranText:
             self.CROSS_REFERENCE_QURAN = load(json_file)
         with open("raw_data/mushaf/quran_biblical_crossreferences.json") as json_file:
             self.CROSS_REFERENCE_BIBLE = load(json_file)
+        with open("raw_data/mushaf/quran_kabbalah_crossreferences.json") as json_file:
+            self.CROSS_REFERENCE_KABBALAH = load(json_file)
         self.VERSE_NAMES = list(self.ENGLISH.keys())
         self.CHAPTER_NAMES = self._get_surah_names()
         self.CHAPTER_SIZES = self._get_surah_sizes()
         self.KEYWORDS = self._get_keywords()
     
+    def _crossreference_kabbalah(self, top_n_search_results:int=10) -> dict:
+        KABBALAH = KabbalahText()
+        QURAN_CROSSREFERENCES_TO_KABBALAH = {}
+        for quran_verse,quran_feature_set in zip(self.VERSE_NAMES,self.FEATURES.values()):
+            print(quran_verse)
+            semantic_scores = list(
+                map(
+                    lambda kabbalah_feature_set: cosine_similarity_for_sets(
+                        features_a=kabbalah_feature_set,
+                        features_b=set(quran_feature_set)
+                    ),
+                    KABBALAH._get_features()
+                )
+            )
+            verse_indexes = argsort(semantic_scores)[:-top_n_search_results-1:-1]
+            related_kabbalah_verses = list(map(lambda index:KABBALAH.VERSE_NAMES[index], verse_indexes))
+            QURAN_CROSSREFERENCES_TO_KABBALAH[quran_verse] = related_kabbalah_verses
+        with open('raw_data/mushaf/quran_kabbalah_crossreferences.json', 'w') as json_file:
+            dump(QURAN_CROSSREFERENCES_TO_KABBALAH, json_file, default=list)
+
     def _get_keywords(self) -> Dict[str,List[str]]:
         keywords = {}
         for verse_index,features in self.FEATURES.items():
@@ -89,6 +112,7 @@ class QuranText:
             "CROSS_REFERENCE":{
                 "QURAN":self.CROSS_REFERENCE_QURAN[verse_name],
                 "BIBLE":self.CROSS_REFERENCE_BIBLE[verse_name],
+                "KABBALAH":self.CROSS_REFERENCE_KABBALAH[verse_name],
             },
             #"FEATURES":self.semantic_features_for_verse(verse_name),
         }
@@ -154,6 +178,15 @@ class KabbalahText:
             with open(full_path,encoding='utf-8') as json_file:
                 bible[book_name] = load(json_file)["text"]
         return bible 
+
+    def _get_features(self) -> Set[str]:
+        for book,chapters in self.FEATURES.items():
+            for chapter,verses in enumerate(chapters):
+                chapter = int(chapter)+1
+                for verse,features in enumerate(verses):
+                    verse = int(verse)+1
+                    #verse_name = f"{book}:{chapter}:{verse}"
+                    yield set(features)
 
     def _get_keywords(self) -> Dict[str,List[str]]:
         keywords = {}
@@ -318,6 +351,3 @@ def generate_kabbalah_files() -> None:
             makedirs(f"kabbalah/{book}/{chapter}")
         with open(f"kabbalah/{book}/{chapter}/{verse}.json","w") as json_file:
             dump(KABBALAH.data_packet(book,chapter,verse),json_file,indent=4,default=list)
-
-
-generate_metadata_files()

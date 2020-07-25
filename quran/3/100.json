@@ -1,0 +1,63 @@
+{
+    "VERSE": "3:100",
+    "ARABIC": "\u064a\u064e\u0670\u0653\u0623\u064e\u064a\u0651\u064f\u0647\u064e\u0627 \u0671\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u0621\u064e\u0627\u0645\u064e\u0646\u064f\u0648\u0653\u0627\u06df \u0625\u0650\u0646 \u062a\u064f\u0637\u0650\u064a\u0639\u064f\u0648\u0627\u06df \u0641\u064e\u0631\u0650\u064a\u0642\u064b\u0627 \u0645\u0651\u0650\u0646\u064e \u0671\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u0623\u064f\u0648\u062a\u064f\u0648\u0627\u06df \u0671\u0644\u0652\u0643\u0650\u062a\u064e\u0670\u0628\u064e \u064a\u064e\u0631\u064f\u062f\u0651\u064f\u0648\u0643\u064f\u0645 \u0628\u064e\u0639\u0652\u062f\u064e \u0625\u0650\u064a\u0645\u064e\u0670\u0646\u0650\u0643\u064f\u0645\u0652 \u0643\u064e\u0670\u0641\u0650\u0631\u0650\u064a\u0646\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "You who have iman! if you obey a group of those given the Book, they will make you revert to being kafir after you have had iman.",
+        "TRANSLATION_1": "O believers, if you follow what some of the people of the Book say, it will turn you into unbelievers even after you have come to belief.\n",
+        "TRANSLATION_2": "Believers! Were you to obey a party of those who were given the Book, they might cause you to renounce the Truth after you have attained to faith.\n",
+        "TRANSLATION_3": "Believers, if you obey a certain group among the People of the Book, they will turn you back to disbelief.\n",
+        "TRANSLATION_4": "O People who Believe! If you obey some of People given the Book(s), they will definitely turn you into disbelievers after your having accepted faith.\n",
+        "TRANSLATION_5": "O you who believe! If you obey a group of those who were given the Scripture (Jews and Christians), they would (indeed) render you disbelievers after you have believed!\n",
+        "TRANSLATION_6": "O you who believe! if you obey a party from among those who have been given the Book, they will turn you back as unbelievers after you have believed.\n",
+        "TRANSLATION_7": "O believers, if you obey a sect of those who have been given the Book, they will turn you, after you have believed, into unbelievers.\n",
+        "TRANSLATION_8": "O ye who believe! If ye obey a party of those who have received the Scripture they will make you disbelievers after your belief.\n",
+        "TRANSLATION_9": "O believers, if you yield to some of those who were given the Scripture, they will cause you to renounce the truth after you have believed.\n",
+        "TRANSLATION_10": "O Ye who believe! were ye to obey any party amongst those that have been vouchsafed the Book, they would, after your having believed, render you Infidels.\n",
+        "TRANSLATION_11": "O you who have faith, if you obey a part of those who were given the Book, they will turn you back, after your faith, into faithless ones.\n",
+        "TRANSLATION_12": "O ye who believe! If ye listen to a faction among the People of the Book, they would (indeed) render you apostates after ye have believed!\n",
+        "TRANSLATION_13": "O you who believe! If you obey a group of those who were given the Scripture (Jews and Christians), they would (indeed) render you disbelievers after you have believed!\n",
+        "TRANSLATION_14": "Believers, if you obey a sect of those who were given the Book, they will turn you into unbelievers after you have believed.\n",
+        "TRANSLATION_15": "O you who believe! If you obey a party of those who were given the Scripture, they will turn you, after your belief, into disbelievers.\n",
+        "TRANSLATION_16": "O you who have believed, if you obey a party of those who were given the Scripture, they would turn you back, after your belief, [to being] unbelievers.\n",
+        "TRANSLATION_17": "[3:100] The following was revealed when the Jews passed by the Aws and the Khazraj and were infuriated by their comradeship, and set about reminding them of their mutual hostility in the days before Islam, such that they caused them to quarrel and the two [tribes] were on the verge of fighting one another: O you who believe,   if you obey a party of those who have been given the Scripture, they will turn you, after you have believed, into disbelievers.\n",
+        "TRANSLATION_18": "(0 ye who believe! If ye obey a party of those who have received the Scripture) the Torah (they will make you disbelievers) in Allah and Muhammad (after your belief) in Allah and [the message of] Muhammad.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "3:100",
+            "98:4",
+            "33:26",
+            "2:53",
+            "28:52",
+            "5:57",
+            "2:146",
+            "46:30",
+            "37:157",
+            "3:23"
+        ],
+        "BIBLE": [
+            "prophets:hosea:2:14",
+            "torah:exodus:36:6",
+            "torah:exodus:23:27",
+            "prophets:i%20kings:5:23",
+            "prophets:nahum:1:14",
+            "prophets:ii%20samuel:22:36",
+            "torah:leviticus:17:11",
+            "prophets:jeremiah:30:3",
+            "writings:ii%20chronicles:20:11",
+            "torah:leviticus:10:17"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:1:13",
+            "Sefer%20Yetzirah:3:2",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:2:2",
+            "Sefer%20Yetzirah:1:5",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:4:1"
+        ]
+    }
+}

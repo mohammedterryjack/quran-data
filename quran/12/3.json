@@ -1,0 +1,63 @@
+{
+    "VERSE": "12:3",
+    "ARABIC": "\u0646\u064e\u062d\u0652\u0646\u064f \u0646\u064e\u0642\u064f\u0635\u0651\u064f \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064e \u0623\u064e\u062d\u0652\u0633\u064e\u0646\u064e \u0671\u0644\u0652\u0642\u064e\u0635\u064e\u0635\u0650 \u0628\u0650\u0645\u064e\u0627\u0653 \u0623\u064e\u0648\u0652\u062d\u064e\u064a\u0652\u0646\u064e\u0627\u0653 \u0625\u0650\u0644\u064e\u064a\u0652\u0643\u064e \u0647\u064e\u0670\u0630\u064e\u0627 \u0671\u0644\u0652\u0642\u064f\u0631\u0652\u0621\u064e\u0627\u0646\u064e \u0648\u064e\u0625\u0650\u0646 \u0643\u064f\u0646\u062a\u064e \u0645\u0650\u0646 \u0642\u064e\u0628\u0652\u0644\u0650\u0647\u0650\u06e6 \u0644\u064e\u0645\u0650\u0646\u064e \u0671\u0644\u0652\u063a\u064e\u0670\u0641\u0650\u0644\u0650\u064a\u0646\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "We tell you the best of stories in revealing this Qur'an to you, even though you were unaware of it before it came.",
+        "TRANSLATION_1": "Through the revelation of this Qur'an We narrate the best of histories of which you were unaware before.\n",
+        "TRANSLATION_2": "(O Muhammad), by revealing the Qur'an to you We narrate to you in the best manner the stories of the past although before this narration you were utterly unaware of them.\n",
+        "TRANSLATION_3": "In revealing this Quran to you, We tell you the best of the stories of which you were unaware.\n",
+        "TRANSLATION_4": "We relate to you the best narrative because We have sent the divine revelation of this Qur\u2019an, to you; although surely you were unaware before this.\n",
+        "TRANSLATION_5": "We relate unto you the best of stories through Our revelations unto you, of this Qur'an. And before this, you were among those who knew nothing about it.\n",
+        "TRANSLATION_6": "We narrate to you the best of narratives, by Our revealing to you this Quran, though before this you were certainly one of those who did not know.\n",
+        "TRANSLATION_7": "We will relate to thee the fairest of stories in that We have revealed to thee this Koran, though before it thou wast one of the heedless.\n",
+        "TRANSLATION_8": "We narrate unto thee (Muhammad) the best of narratives in that We have inspired in thee this Qur'an, though aforetime thou wast of the heedless.\n",
+        "TRANSLATION_9": "We recount to you the best of narratives in revealing this Quran to you, even though you were unaware of it before it came.\n",
+        "TRANSLATION_10": "We! We recount unto thee the best of stories, by Revealing unto thee this Our'an, although thou wast before that of the unaware ones.\n",
+        "TRANSLATION_11": "We will recount to you the best of narratives in what We have revealed to you of this Quran, and indeed prior to it you were among those who are unaware [of it].\n",
+        "TRANSLATION_12": "We do relate unto thee the most beautiful of stories, in that We reveal to thee this (portion of the) Qur'an: before this, thou too was among those who knew it not.\n",
+        "TRANSLATION_13": "We relate unto you (Muhammad SAW) the best of stories through Our Revelations unto you, of this Quran. And before this (i.e. before the coming of Divine Inspiration to you), you were among those who knew nothing about it (the Quran).\n",
+        "TRANSLATION_14": "In the sending down of this Koran, We will narrate to you (Prophet Muhammad) the best of narratives, of which you were previously unaware.\n",
+        "TRANSLATION_15": "We narrate to you the most accurate history, by revealing to you this Quran. Although, prior to it, you were of the unaware.\n",
+        "TRANSLATION_16": "We relate to you, [O Muhammad], the best of stories in what We have revealed to you of this Qur'an although you were, before it, among the unaware.\n",
+        "TRANSLATION_17": "[12:3] We will relate to you the best of narratives in what We have revealed, in Our revealing, to you this Qur\u2019\u0101n, though (wa-in: in is softened, in other words [understand it as] wa-innahu) prior to it you were of the heedless.\n",
+        "TRANSLATION_18": "(We narrate unto thee (Muhammad)) We clarify to you (the best of narratives) the best story of the news of Joseph and his brothers (in that We have inspired in you) with which We inspired through Gabriel (this Qur'an) in this Qur'an, (though aforetime) before Gabriel brought down the Qur'an to you (thou wast of the heedless) in relation to the event of Joseph and his brothers.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "12:3",
+            "30:49",
+            "73:4",
+            "2:4",
+            "19:74",
+            "9:50",
+            "39:65",
+            "76:23",
+            "21:41",
+            "69:9"
+        ],
+        "BIBLE": [
+            "writings:ii%20chronicles:25:16",
+            "prophets:i%20kings:18:36",
+            "prophets:ii%20kings:5:8",
+            "writings:daniel:2:29",
+            "torah:genesis:20:7",
+            "prophets:i%20samuel:20:21",
+            "prophets:jonah:4:2",
+            "torah:genesis:19:8",
+            "prophets:i%20samuel:20:9",
+            "prophets:ii%20kings:5:6"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:2:4",
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:3:2",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:1:6"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "VERSE": "114:3",
+    "ARABIC": "\u0625\u0650\u0644\u064e\u0670\u0647\u0650 \u0671\u0644\u0646\u0651\u064e\u0627\u0633\u0650",
+    "ENGLISH": {
+        "TRANSLATION_0": "the God of mankind,",
+        "TRANSLATION_1": "The God of men,\n",
+        "TRANSLATION_2": "the True God of mankind,\n",
+        "TRANSLATION_3": "the Lord of mankind\n",
+        "TRANSLATION_4": "\u201cThe God of all mankind.\u201d\n",
+        "TRANSLATION_5": "The God of An-Nas,\"\n",
+        "TRANSLATION_6": "The god of men,\n",
+        "TRANSLATION_7": "the God of men,\n",
+        "TRANSLATION_8": "The god of mankind,\n",
+        "TRANSLATION_9": "the God of people,\n",
+        "TRANSLATION_10": "The God of mankind,\n",
+        "TRANSLATION_11": "God of humans,\n",
+        "TRANSLATION_12": "The god (or judge) of Mankind,-\n",
+        "TRANSLATION_13": "The Ilah (God) of mankind,\n",
+        "TRANSLATION_14": "the God of people,\n",
+        "TRANSLATION_15": "The God of mankind.\n",
+        "TRANSLATION_16": "The God of mankind,\n",
+        "TRANSLATION_17": "[114:3] the God of mankind (both [maliki\u2019l-n\u0101s and il\u0101hi\u2019l-n\u0101s] are either substitutions or adjectival qualifications or explicative supplements; the repetition of the annexed word [al-n\u0101s] is meant as an additional explication),\n",
+        "TRANSLATION_18": "(The God of mankind) the Creator of the jinn and humankind,\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "114:3",
+            "104:6",
+            "114:2",
+            "4:108",
+            "110:2",
+            "10:44",
+            "30:6",
+            "44:11",
+            "4:133",
+            "3:134"
+        ],
+        "BIBLE": [
+            "prophets:ezekiel:34:31",
+            "torah:exodus:15:3",
+            "prophets:jeremiah:26:16",
+            "prophets:joshua:23:10",
+            "writings:nehemiah:7:31",
+            "writings:psalms:22:7",
+            "writings:job:34:30",
+            "writings:psalms:33:13",
+            "prophets:ezekiel:36:14",
+            "writings:job:9:2"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:6:2",
+            "Sefer%20Yetzirah:3:5",
+            "Sefer%20Yetzirah:4:6",
+            "Sefer%20Yetzirah:4:9",
+            "Sefer%20Yetzirah:4:10",
+            "Sefer%20Yetzirah:4:7",
+            "Sefer%20Yetzirah:4:8",
+            "Sefer%20Yetzirah:3:6",
+            "Sefer%20Yetzirah:4:11",
+            "Sefer%20Yetzirah:1:9"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "VERSE": "38:80",
+    "ARABIC": "\u0642\u064e\u0627\u0644\u064e \u0641\u064e\u0625\u0650\u0646\u0651\u064e\u0643\u064e \u0645\u0650\u0646\u064e \u0671\u0644\u0652\u0645\u064f\u0646\u0638\u064e\u0631\u0650\u064a\u0646\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "He said, 'You are among the reprieved",
+        "TRANSLATION_1": "(God) said: \"You have the respite\n",
+        "TRANSLATION_2": "He said: \u201cYou are of those who have been granted respite\n",
+        "TRANSLATION_3": "The Lord said, \"You will only be given a respite\n",
+        "TRANSLATION_4": "Said Allah, \u201cYou are therefore among those given respite.\u201d\n",
+        "TRANSLATION_5": "(Allah) said: \"Verily, you are of those allowed respite,\"\n",
+        "TRANSLATION_6": "He said: Surely you are of the respited ones,\n",
+        "TRANSLATION_7": "Said He, 'Thou art among the ones that are respited\n",
+        "TRANSLATION_8": "He said: Lo! thou art of those reprieved\n",
+        "TRANSLATION_9": "so He said, \"You are granted respite\n",
+        "TRANSLATION_10": "Allah said: verily, thou art of those respited.\n",
+        "TRANSLATION_11": "Said He, \u2018You are indeed among the reprieved\n",
+        "TRANSLATION_12": "(Allah) said: \"Respite then is granted thee-\n",
+        "TRANSLATION_13": "(Allah) said: \"Verily! You are of those allowed respite\n",
+        "TRANSLATION_14": "He (Allah) said: 'You are among those that are respited\n",
+        "TRANSLATION_15": "He said, \u201cYou are one of those deferred.\n",
+        "TRANSLATION_16": "[Allah] said, \"So indeed, you are of those reprieved\n",
+        "TRANSLATION_17": "[38:80] He said, \u2018Then you will indeed be among the reprieved\n",
+        "TRANSLATION_18": "(He said) Allah said: (Lo! thou art of those reprieved) you are given a respite\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "15:37",
+            "38:80",
+            "7:15",
+            "52:31",
+            "26:31",
+            "36:3",
+            "37:52",
+            "15:95",
+            "7:13",
+            "44:31"
+        ],
+        "BIBLE": [
+            "writings:i%20chronicles:23:25",
+            "torah:numbers:18:24",
+            "prophets:ezekiel:15:6",
+            "prophets:judges:11:24",
+            "prophets:i%20kings:21:20",
+            "torah:genesis:48:9",
+            "writings:ii%20chronicles:25:9",
+            "prophets:i%20kings:5:18",
+            "prophets:amos:9:15",
+            "torah:numbers:27:12"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:6:2",
+            "Sefer%20Yetzirah:1:5",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:1:3",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:6:3"
+        ]
+    }
+}

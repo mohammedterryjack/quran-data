@@ -1,0 +1,63 @@
+{
+    "VERSE": "27:30",
+    "ARABIC": "\u0625\u0650\u0646\u0651\u064e\u0647\u064f\u06e5 \u0645\u0650\u0646 \u0633\u064f\u0644\u064e\u064a\u0652\u0645\u064e\u0670\u0646\u064e \u0648\u064e\u0625\u0650\u0646\u0651\u064e\u0647\u064f\u06e5 \u0628\u0650\u0633\u0652\u0645\u0650 \u0671\u0644\u0644\u0651\u064e\u0647\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650",
+    "ENGLISH": {
+        "TRANSLATION_0": "It is from Sulayman and says: \"In the name of Allah, All-Merciful, Most Merciful.",
+        "TRANSLATION_1": "It is from Solomon, and (says): 'In the name of Allah, Ar-Rahman, Ar-Rahim.\n",
+        "TRANSLATION_2": "It is from Solomon, and it is: \"In the name of Allah, the Most Merciful, the Most Compassionate.\"\n",
+        "TRANSLATION_3": "It reads, 'From Soloman. In the Name of God, the Beneficent and the Merciful.\n",
+        "TRANSLATION_4": "\u201cIndeed it is from Sulaiman, and it is (begins) with \u2018Allah \u2013 beginning with the name of \u2013 the Most Gracious, the Most Merciful.\u2019\u201d\n",
+        "TRANSLATION_5": "Verily, it is from Sulayman, and it (reads): `In the Name of Allah, the Most Gracious, the Most Merciful;'\n",
+        "TRANSLATION_6": "Surely it is from Sulaiman, and surely it is in the name of Allah, the Beneficent, the Merciful;\n",
+        "TRANSLATION_7": "It is from Solomon, and it is \"In the Name of God, the Merciful, the Compassionate.\n",
+        "TRANSLATION_8": "Lo! it is from Solomon, and lo! it is: In the name of Allah, the Beneficent, the Merciful;\n",
+        "TRANSLATION_9": "It is from Solomon. It reads, \"In the name of God, Most Gracious, Most Merciful,\n",
+        "TRANSLATION_10": "Verily it is from Sulaiman, and verily it is: in the name of Allah, the Compassionate, the Merciful.\n",
+        "TRANSLATION_11": "It is from Solomon, and it begins in the name of Allah, the All-beneficent, the All-merciful.\n",
+        "TRANSLATION_12": "It is from Solomon, and is (as follows): 'In the name of Allah, Most Gracious, Most Merciful:\n",
+        "TRANSLATION_13": "Verily! It is from Sulaiman (Solomon), and verily! It (reads): In the Name of Allah, the Most Beneficent, the Most Merciful;\n",
+        "TRANSLATION_14": "It is from Solomon and it is \"In the Name of Allah, the Merciful, the Most Merciful.\n",
+        "TRANSLATION_15": "It is from Solomon, and it is, \u2018In the Name of God, the Gracious, the Merciful.\n",
+        "TRANSLATION_16": "Indeed, it is from Solomon, and indeed, it reads: 'In the name of Allah, the Entirely Merciful, the Especially Merciful,\n",
+        "TRANSLATION_17": "[27:30] It is from Solomon and lo! it is, in other words, its text says: \u201cIn the Name of God, the Compassionate, the Merciful.\n",
+        "TRANSLATION_18": "(Lo! it is from Solomon, and lo! it is) the first line of it is: (In the name of Allah the Beneficent, the Merciful;\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "27:30",
+            "1:1",
+            "11:41",
+            "2:199",
+            "44:42",
+            "3:129",
+            "7:180",
+            "5:4",
+            "48:14",
+            "31:26"
+        ],
+        "BIBLE": [
+            "prophets:jonah:4:2",
+            "writings:psalms:116:5",
+            "prophets:hosea:2:25",
+            "writings:psalms:115:2",
+            "prophets:i%20kings:1:30",
+            "prophets:i%20kings:11:2",
+            "torah:exodus:20:17",
+            "prophets:ii%20kings:4:9",
+            "torah:genesis:18:20",
+            "prophets:ii%20samuel:12:22"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:5:4",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:1:13",
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:6:3"
+        ]
+    }
+}

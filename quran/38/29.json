@@ -1,0 +1,63 @@
+{
+    "VERSE": "38:29",
+    "ARABIC": "\u0643\u0650\u062a\u064e\u0670\u0628\u064c \u0623\u064e\u0646\u0632\u064e\u0644\u0652\u0646\u064e\u0670\u0647\u064f \u0625\u0650\u0644\u064e\u064a\u0652\u0643\u064e \u0645\u064f\u0628\u064e\u0670\u0631\u064e\u0643\u064c \u0644\u0651\u0650\u064a\u064e\u062f\u0651\u064e\u0628\u0651\u064e\u0631\u064f\u0648\u0653\u0627\u06df \u0621\u064e\u0627\u064a\u064e\u0670\u062a\u0650\u0647\u0650\u06e6 \u0648\u064e\u0644\u0650\u064a\u064e\u062a\u064e\u0630\u064e\u0643\u0651\u064e\u0631\u064e \u0623\u064f\u0648\u06df\u0644\u064f\u0648\u0627\u06df \u0671\u0644\u0652\u0623\u064e\u0644\u0652\u0628\u064e\u0670\u0628\u0650",
+    "ENGLISH": {
+        "TRANSLATION_0": "It is a Book We have sent down to you, full of blessing, so let people of intelligence ponder its Signs and take heed.",
+        "TRANSLATION_1": "We have sent down a Book to you which is blessed, so that people may apply their minds to its revelations, and the men of wisdom may reflect.\n",
+        "TRANSLATION_2": "This is the Blessed Book that We have revealed to you, (O Muhammad), that people with understanding may reflect over its verses and those with understanding derive a lesson.\n",
+        "TRANSLATION_3": "It is a blessed Book which We have revealed for you so that you will reflect upon its verses and so the people of understanding will take heed.\n",
+        "TRANSLATION_4": "This is a Book which We have sent down upon you, a blessed Book, for them to ponder upon its verses, and for men of intellect to accept advice.\n",
+        "TRANSLATION_5": "(This is) a Book which We have sent down to you, full of blessings, that they may ponder over its Verses, and that men of understanding may remember.\n",
+        "TRANSLATION_6": "(It is) a Book We have revealed to you abounding in good that they may ponder over its verses, and that those endowed with understanding may be mindful.\n",
+        "TRANSLATION_7": "A Book We have sent down to thee, Blessed, that men possessed of minds may ponder its signs and so remember.\n",
+        "TRANSLATION_8": "(This is) a Scripture that We have revealed unto thee, full of blessing, that they may ponder its revelations, and that men of understanding may reflect.\n",
+        "TRANSLATION_9": "This is a blessed Book which We sent down to you [Muhammad], for people to ponder over its messages, and for those with understanding to take heed.\n",
+        "TRANSLATION_10": "This is a Book We have sent down Unto thee, blest, that they may ponder the revelations thereof, and that there may be admonished men of understanding.\n",
+        "TRANSLATION_11": "[This is] a blessed Book that We have sent down to you, so that they may contemplate its signs, and that those who possess intellect may take admonition.\n",
+        "TRANSLATION_12": "(Here is) a Book which We have sent down unto thee, full of blessings, that they may mediate on its Signs, and that men of understanding may receive admonition.\n",
+        "TRANSLATION_13": "(This is) a Book (the Quran) which We have sent down to you, full of blessings that they may ponder over its Verses, and that men of understanding may remember.\n",
+        "TRANSLATION_14": "It is a Blessed Book that We have sent down to you (Prophet Muhammad), so that those possessed with minds might ponder its verses and remember.\n",
+        "TRANSLATION_15": "A blessed Book that We sent down to you, that they may ponder its Verses, and for those with intelligence to take heed.\n",
+        "TRANSLATION_16": "[This is] a blessed Book which We have revealed to you, [O Muhammad], that they might reflect upon its verses and that those of understanding would be reminded.\n",
+        "TRANSLATION_17": "[38:29] A Book (kit\u0101bun, the predicate of a missing subject, namely, h\u0101dh\u0101, \u2018this is\u2019) that We have revealed to you, full of blessing, that they may contemplate (yaddabbar\u016b is actually yatadabbar\u016b, but the t\u0101\u2019 has been assimilated with the d\u0101l) its signs, [that] they may reflect upon its meanings and become believers, and that they may remember, that they may be admonished \u2014 those people of pith, those possessors of intellect.\n",
+        "TRANSLATION_18": "((This is) a Scripture that We have revealed unto you) We have sent with Gabriel to you, (full of blessing) wherein there is forgiveness and mercy for those who believe in it, (that they may ponder its revelations, and that men of understanding) and that those possessed of intellects among people (may reflect) take heed.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "38:29",
+            "29:47",
+            "44:33",
+            "28:2",
+            "26:2",
+            "12:1",
+            "6:105",
+            "37:117",
+            "78:28",
+            "20:23"
+        ],
+        "BIBLE": [
+            "writings:proverbs:12:8",
+            "writings:nehemiah:8:3",
+            "prophets:jeremiah:29:32",
+            "writings:psalms:34:9",
+            "writings:job:34:10",
+            "prophets:isaiah:29:14",
+            "writings:esther:1:22",
+            "writings:psalms:111:10",
+            "writings:daniel:10:11",
+            "torah:deuteronomy:4:6"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:4:3",
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:5:2",
+            "Sefer%20Yetzirah:6:2",
+            "Sefer%20Yetzirah:4:5",
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:4:1"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "VERSE": "2:4",
+    "ARABIC": "\u0648\u064e\u0671\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u064a\u064f\u0624\u0652\u0645\u0650\u0646\u064f\u0648\u0646\u064e \u0628\u0650\u0645\u064e\u0627\u0653 \u0623\u064f\u0646\u0632\u0650\u0644\u064e \u0625\u0650\u0644\u064e\u064a\u0652\u0643\u064e \u0648\u064e\u0645\u064e\u0627\u0653 \u0623\u064f\u0646\u0632\u0650\u0644\u064e \u0645\u0650\u0646 \u0642\u064e\u0628\u0652\u0644\u0650\u0643\u064e \u0648\u064e\u0628\u0650\u0671\u0644\u0652\u0621\u064e\u0627\u062e\u0650\u0631\u064e\u0629\u0650 \u0647\u064f\u0645\u0652 \u064a\u064f\u0648\u0642\u0650\u0646\u064f\u0648\u0646\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "those who have iman in what has been sent down to you and what was sent down before you, and are certain about the Next World.",
+        "TRANSLATION_1": "Who believe in what has been revealed to you and what was revealed to those before you, and are certain of the Hereafter.\n",
+        "TRANSLATION_2": "who believe in the Book We have sent down to you (i.e. the Qur'an) and in the Books sent down before you, and firmly believe in the Hereafter.\n",
+        "TRANSLATION_3": "who have faith in what has been revealed to you and others before you and have strong faith in the life hereafter.\n",
+        "TRANSLATION_4": "And who believe in this (Qur\u2019an) which has been sent down upon you, O beloved Prophet, (Mohammed \u2013 peace and blessings be upon him) and what was sent down before you; and are certain of the Hereafter.\n",
+        "TRANSLATION_5": "And who have faith in what is revealed to you and in what was revealed before you, and in the Hereafter they are certain.\n",
+        "TRANSLATION_6": "And who believe in that which has been revealed to you and that which was revealed before you and they are sure of the hereafter.\n",
+        "TRANSLATION_7": "who believe in what has been sent down to thee and what has been sent down before thee, and have faith in the Hereafter;\n",
+        "TRANSLATION_8": "And who believe in that which is revealed unto thee (Muhammad) and that which was revealed before thee, and are certain of the Hereafter.\n",
+        "TRANSLATION_9": "those who believe in the revelation sent down to you and in what was sent before you, and firmly believe in the life to come --\n",
+        "TRANSLATION_10": "And who believe in that which hath been sent down unto thee and that which hath been sent down before thee and of the Hereafter they are convinced.\n",
+        "TRANSLATION_11": "and who believe in what has been sent down to you and what was sent down before you, and are certain of the Hereafter.\n",
+        "TRANSLATION_12": "And who believe in the Revelation sent to thee, and sent before thy time, and (in their hearts) have the assurance of the Hereafter.\n",
+        "TRANSLATION_13": "And who believe in (the Quran and the Sunnah) which has been sent down (revealed) to you (Muhammad Peace be upon him) and in [the Taurat (Torah) and the Injeel (Gospel), etc.] which were sent down before you and they believe with certainty in the Hereafter. (Resurrection, recompense of their good and bad deeds, Paradise and Hell, etc.).\n",
+        "TRANSLATION_14": "Who believe in that which has been sent down to you (Prophet Muhammad) and what has been sent down before you (to Prophets Jesus and Moses) and firmly believe in the Everlasting Life.\n",
+        "TRANSLATION_15": "And those who believe in what was revealed to you, and in what was revealed before you, and are certain of the Hereafter.\n",
+        "TRANSLATION_16": "And who believe in what has been revealed to you, [O Muhammad], and what was revealed before you, and of the Hereafter they are certain [in faith].\n",
+        "TRANSLATION_17": "[2:4] and who believe in what has been revealed to you, namely, the Qur\u2019\u0101n; and what was revealed before you, that is, the Torah, the Gospel and other [scriptures]; and of the Hereafter, they are certain, that is, they know [it is real].\n",
+        "TRANSLATION_18": "(And who believe in that which is revealed unto thee (Muhammad)) of the Qur'an (and that which was revealed before you) of scriptures given to all the prophets, (and are certain of the Hereafter), they believe in resurrection after death and in the bliss of Paradise, referring here specifically to 'Abdullah Ibn Salam and his followers.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "2:4",
+            "21:41",
+            "69:9",
+            "41:48",
+            "6:10",
+            "6:113",
+            "7:147",
+            "7:45",
+            "77:17",
+            "75:21"
+        ],
+        "BIBLE": [
+            "prophets:isaiah:35:4",
+            "writings:job:29:13",
+            "prophets:joshua:11:20",
+            "prophets:jeremiah:14:19",
+            "writings:ezra:4:15",
+            "prophets:jeremiah:14:14",
+            "writings:daniel:2:29",
+            "prophets:zechariah:7:12",
+            "writings:nehemiah:7:5",
+            "prophets:i%20kings:18:36"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:4:1",
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:6:2",
+            "Sefer%20Yetzirah:3:2",
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:1:9"
+        ]
+    }
+}

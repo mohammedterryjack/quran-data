@@ -1,0 +1,63 @@
+{
+    "VERSE": "68:36",
+    "ARABIC": "\u0645\u064e\u0627 \u0644\u064e\u0643\u064f\u0645\u0652 \u0643\u064e\u064a\u0652\u0641\u064e \u062a\u064e\u062d\u0652\u0643\u064f\u0645\u064f\u0648\u0646\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "What is the matter with you? On what basis do you judge?",
+        "TRANSLATION_1": "What has come upon you that you judge in such a wise?\n",
+        "TRANSLATION_2": "What is the matter with you? How ill do you judge!\n",
+        "TRANSLATION_3": "What is the matter with you? How could you judge this to be so?\n",
+        "TRANSLATION_4": "What is the matter with you? What sort of a judgement you impose!\n",
+        "TRANSLATION_5": "What is the matter with you How judge you\n",
+        "TRANSLATION_6": "What has happened to you? How do you judge?\n",
+        "TRANSLATION_7": "What ails you then, how you judge?\n",
+        "TRANSLATION_8": "What aileth you? How foolishly ye judge!\n",
+        "TRANSLATION_9": "What ails you? How ill you judge!\n",
+        "TRANSLATION_10": "What aileth you? How ill ye judge!\n",
+        "TRANSLATION_11": "What is the matter with you? How do you judge!\n",
+        "TRANSLATION_12": "What is the matter with you? How judge ye?\n",
+        "TRANSLATION_13": "What is the matter with you? How judge you?\n",
+        "TRANSLATION_14": "What is the matter with you then, how do you judge?\n",
+        "TRANSLATION_15": "What is the matter with you? How do you judge?\n",
+        "TRANSLATION_16": "What is [the matter] with you? How do you judge?\n",
+        "TRANSLATION_17": "[68:36] What is wrong with you? How do you judge?, with such corrupt judgement?\n",
+        "TRANSLATION_18": "(What aileth you) people of Mecca? (How foolishly ye judge!) Evil is what you judge for yourselves!\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "68:36",
+            "37:154",
+            "74:19",
+            "74:20",
+            "6:24",
+            "37:25",
+            "37:92",
+            "18:68",
+            "43:25",
+            "27:69"
+        ],
+        "BIBLE": [
+            "writings:ecclesiastes:8:6",
+            "writings:job:9:32",
+            "writings:psalms:9:9",
+            "writings:ecclesiastes:2:15",
+            "writings:job:9:19",
+            "writings:nehemiah:6:13",
+            "torah:genesis:18:25",
+            "torah:deuteronomy:17:8",
+            "writings:ezra:10:4",
+            "torah:exodus:18:16"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:2:2",
+            "Sefer%20Yetzirah:3:3",
+            "Sefer%20Yetzirah:4:1",
+            "Sefer%20Yetzirah:3:7",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:1:12",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:1:10"
+        ]
+    }
+}

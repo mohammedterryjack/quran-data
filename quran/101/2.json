@@ -1,0 +1,63 @@
+{
+    "VERSE": "101:2",
+    "ARABIC": "\u0645\u064e\u0627 \u0671\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f",
+    "ENGLISH": {
+        "TRANSLATION_0": "What is the Crashing Blow?",
+        "TRANSLATION_1": "What is the startling calamity?\n",
+        "TRANSLATION_2": "What is the Calamity?\n",
+        "TRANSLATION_3": "What is the crash?\n",
+        "TRANSLATION_4": "What is the event that terrifies the hearts?\n",
+        "TRANSLATION_5": "What is Al-Qari`ah\n",
+        "TRANSLATION_6": "What is the terrible calamity!\n",
+        "TRANSLATION_7": "What is the Clatterer?\n",
+        "TRANSLATION_8": "What is the Calamity?\n",
+        "TRANSLATION_9": "What is the Clatterer?\n",
+        "TRANSLATION_10": "What is the Striking?\n",
+        "TRANSLATION_11": "What is the Catastrophe?\n",
+        "TRANSLATION_12": "What is the (Day) of Noise and Clamour?\n",
+        "TRANSLATION_13": "What is the striking (Hour)?\n",
+        "TRANSLATION_14": "What is the Clatterer.\n",
+        "TRANSLATION_15": "What is the Shocker?\n",
+        "TRANSLATION_16": "What is the Striking Calamity?\n",
+        "TRANSLATION_17": "[101:2] What is the Clattering Blow? \u2014 [intended] to emphasise its awesomeness (m\u0101\u2019l-q\u0101ri\u2018a: both of these [elements] constitute a subject and a predicate, and [together] the predicate of [the first] al-q\u0101ri\u2018a).\n",
+        "TRANSLATION_18": "What is the Calamity?) He says: the Hour! What is the Hour? He said this to arouse his wonder; the Hour is called Calamity because it shakes people's hearts.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "101:2",
+            "101:1",
+            "101:3",
+            "69:2",
+            "69:4",
+            "69:1",
+            "103:1",
+            "51:2",
+            "90:12",
+            "86:2"
+        ],
+        "BIBLE": [
+            "writings:ecclesiastes:2:23",
+            "writings:proverbs:23:17",
+            "writings:proverbs:15:15",
+            "writings:psalms:140:3",
+            "writings:psalms:95:8",
+            "writings:psalms:13:3",
+            "prophets:jeremiah:4:9",
+            "torah:deuteronomy:24:15",
+            "prophets:i%20kings:8:61",
+            "torah:deuteronomy:4:39"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:6:2",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:4:3",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:4:11",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:1:14",
+            "Sefer%20Yetzirah:1:12",
+            "Sefer%20Yetzirah:1:11"
+        ]
+    }
+}

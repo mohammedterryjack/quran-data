@@ -1,0 +1,63 @@
+{
+    "VERSE": "41:2",
+    "ARABIC": "\u062a\u064e\u0646\u0632\u0650\u064a\u0644\u064c \u0645\u0651\u0650\u0646\u064e \u0671\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650",
+    "ENGLISH": {
+        "TRANSLATION_0": "A revelation from the All-Merciful, the Most Merciful.",
+        "TRANSLATION_1": "A revelation from the most benevolent, ever-merciful,\n",
+        "TRANSLATION_2": "This is a revelation from the Most Merciful, the Most Compassionate,\n",
+        "TRANSLATION_3": "This is the revelations from the Beneficent, Merciful God.\n",
+        "TRANSLATION_4": "This (Qur\u2019an) is sent down from the Most Gracious, the Most Merciful.\n",
+        "TRANSLATION_5": "A revelation from the Most Gracious, the Most Merciful.\n",
+        "TRANSLATION_6": "A revelation from the Beneficent, the Merciful Allah:\n",
+        "TRANSLATION_7": "A sending down from the Merciful, the Compassionate.\n",
+        "TRANSLATION_8": "A revelation from the Beneficent, the Merciful,\n",
+        "TRANSLATION_9": "A revelation from [God], the Most Gracious, the Most Merciful --\n",
+        "TRANSLATION_10": "This is a revelation from the Compassionate, the Merciful -\n",
+        "TRANSLATION_11": "A [gradually] sent down [revelation] from the All-beneficent, the All-merciful,\n",
+        "TRANSLATION_12": "A Revelation from (Allah), Most Gracious, Most Merciful;-\n",
+        "TRANSLATION_13": "A revelation from Allah, the Most Beneficent, the Most Merciful.\n",
+        "TRANSLATION_14": "A sending down from the Merciful, the Most Merciful.\n",
+        "TRANSLATION_15": "A revelation from the Most Gracious, the Most Merciful.\n",
+        "TRANSLATION_16": "[This is] a revelation from the Entirely Merciful, the Especially Merciful -\n",
+        "TRANSLATION_17": "[41:2] A revelation from the Compassionate, the Merciful (tanz\u012blun mina\u2019l-rahm\u0101ni\u2019l-rah\u012bm, the subject).\n",
+        "TRANSLATION_18": "(A revelation from the Beneficent, the Merciful,\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "41:2",
+            "1:3",
+            "55:1",
+            "20:5",
+            "36:5",
+            "26:217",
+            "19:85",
+            "26:5",
+            "1:1",
+            "21:75"
+        ],
+        "BIBLE": [
+            "writings:psalms:116:5",
+            "writings:psalms:77:10",
+            "writings:psalms:51:3",
+            "writings:ii%20chronicles:36:15",
+            "writings:psalms:103:8",
+            "writings:psalms:145:8",
+            "writings:psalms:86:15",
+            "prophets:joel:2:13",
+            "prophets:isaiah:30:18",
+            "prophets:jonah:4:2"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:6:5",
+            "Sefer%20Yetzirah:3:2",
+            "Sefer%20Yetzirah:1:3",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:6:3"
+        ]
+    }
+}

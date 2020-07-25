@@ -1,0 +1,63 @@
+{
+    "VERSE": "20:65",
+    "ARABIC": "\u0642\u064e\u0627\u0644\u064f\u0648\u0627\u06df \u064a\u064e\u0670\u0645\u064f\u0648\u0633\u064e\u0649\u0670\u0653 \u0625\u0650\u0645\u0651\u064e\u0627\u0653 \u0623\u064e\u0646 \u062a\u064f\u0644\u0652\u0642\u0650\u0649\u064e \u0648\u064e\u0625\u0650\u0645\u0651\u064e\u0627\u0653 \u0623\u064e\u0646 \u0646\u0651\u064e\u0643\u064f\u0648\u0646\u064e \u0623\u064e\u0648\u0651\u064e\u0644\u064e \u0645\u064e\u0646\u0652 \u0623\u064e\u0644\u0652\u0642\u064e\u0649\u0670",
+    "ENGLISH": {
+        "TRANSLATION_0": "They said, 'Musa, will you throw or shall we be the first to throw?'",
+        "TRANSLATION_1": "They said: \"Either you cast (your spell), O Moses, or we shall cast it first.\"\n",
+        "TRANSLATION_2": "The magicians said: \"Moses, will you throw down or shall we be the first to throw?\"\n",
+        "TRANSLATION_3": "They said, \"Moses, would you be the first to show your skill or should we be the first to throw down our devices?\"\n",
+        "TRANSLATION_4": "They said, \u201cO Moosa, either you throw first \u2013 or shall we throw first?\u201d\n",
+        "TRANSLATION_5": "They said: \"O Musa! Either you throw first or we be the first to throw\"\n",
+        "TRANSLATION_6": "They said: O Musa! will you cast, or shall we be the first who cast down?\n",
+        "TRANSLATION_7": "They said, 'Moses, either thou wilt cast, or we shall be the first to cast.'\n",
+        "TRANSLATION_8": "They said: O Moses! Either throw first, or let us be the first to throw?\n",
+        "TRANSLATION_9": "They said, \"Moses, will you throw down first, or shall we be the first to throw down?\"\n",
+        "TRANSLATION_10": "They said: either thou cast down, or we shall be the first to cast down.\n",
+        "TRANSLATION_11": "They said, \u2018O Moses! Will you throw first, or shall we?\u2019\n",
+        "TRANSLATION_12": "They said: \"O Moses! whether wilt thou that thou throw (first) or that we be the first to throw?\"\n",
+        "TRANSLATION_13": "They said:\"O Musa (Moses)! Either you throw first or we be the first to throw?\"\n",
+        "TRANSLATION_14": "They said to Moses: 'Will you throw down or shall we be the first?\n",
+        "TRANSLATION_15": "They said, \u201cO Moses, either you throw, or we will be the first to throw.\u201d\n",
+        "TRANSLATION_16": "They said, \"O Moses, either you throw or we will be the first to throw.\"\n",
+        "TRANSLATION_17": "[20:65] They said, \u2018O Moses, you choose: either cast, your staff first, or we shall be the first to cast\u2019, their staff.\n",
+        "TRANSLATION_18": "(They said) the magicians said to Moses: (0 Moses! Either throw first) either you throw your staff to the ground first, (or let us be the first to throw?)\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "20:65",
+            "7:115",
+            "39:12",
+            "26:184",
+            "53:50",
+            "17:59",
+            "3:200",
+            "18:4",
+            "23:81",
+            "15:13"
+        ],
+        "BIBLE": [
+            "torah:exodus:20:16",
+            "torah:genesis:43:5",
+            "torah:genesis:37:20",
+            "prophets:ii%20kings:9:33",
+            "prophets:jeremiah:23:33",
+            "prophets:isaiah:66:5",
+            "torah:exodus:9:8",
+            "prophets:zephaniah:3:16",
+            "prophets:jeremiah:15:1",
+            "torah:genesis:32:27"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:10",
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:1:4",
+            "Sefer%20Yetzirah:3:3",
+            "Sefer%20Yetzirah:3:7",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:3:4",
+            "Sefer%20Yetzirah:1:5"
+        ]
+    }
+}

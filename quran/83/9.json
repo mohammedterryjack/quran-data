@@ -1,0 +1,63 @@
+{
+    "VERSE": "83:9",
+    "ARABIC": "\u0643\u0650\u062a\u064e\u0670\u0628\u064c \u0645\u0651\u064e\u0631\u0652\u0642\u064f\u0648\u0645\u064c",
+    "ENGLISH": {
+        "TRANSLATION_0": "A clearly written Book.",
+        "TRANSLATION_1": "It is a (repository of) distinctly written record.\n",
+        "TRANSLATION_2": "It is a Book inscribed.\n",
+        "TRANSLATION_3": "It is a comprehensively written Book (of records).\n",
+        "TRANSLATION_4": "The record is a sealed text.\n",
+        "TRANSLATION_5": "A Register inscribed.\n",
+        "TRANSLATION_6": "It is a written book.\n",
+        "TRANSLATION_7": "A book inscribed.\n",
+        "TRANSLATION_8": "A written record.\n",
+        "TRANSLATION_9": "it is a written record.\n",
+        "TRANSLATION_10": "A record of misdeeds written.\n",
+        "TRANSLATION_11": "It is a written record.\n",
+        "TRANSLATION_12": "(There is) a Register (fully) inscribed.\n",
+        "TRANSLATION_13": "A Register inscribed.\n",
+        "TRANSLATION_14": "(It is) a marked Book.\n",
+        "TRANSLATION_15": "A numerical book.\n",
+        "TRANSLATION_16": "It is [their destination recorded in] a register inscribed.\n",
+        "TRANSLATION_17": "[83:9] [It is] a sealed book.\n",
+        "TRANSLATION_18": "(A written record) He says: the works of the children of Adam are written on a green rock under the seventh earth; this is Sijjin.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "83:9",
+            "83:20",
+            "56:78",
+            "52:2",
+            "44:2",
+            "43:2",
+            "37:117",
+            "98:3",
+            "68:37",
+            "37:157"
+        ],
+        "BIBLE": [
+            "writings:job:19:23",
+            "prophets:isaiah:30:8",
+            "writings:daniel:5:25",
+            "prophets:i%20kings:11:41",
+            "writings:esther:9:32",
+            "prophets:jeremiah:25:13",
+            "prophets:joshua:8:34",
+            "torah:deuteronomy:28:61",
+            "writings:psalms:69:29",
+            "prophets:ii%20kings:15:21"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:12",
+            "Sefer%20Yetzirah:1:3",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:3:2",
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:3:1",
+            "Sefer%20Yetzirah:3:4"
+        ]
+    }
+}

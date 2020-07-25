@@ -1,0 +1,63 @@
+{
+    "VERSE": "17:106",
+    "ARABIC": "\u0648\u064e\u0642\u064f\u0631\u0652\u0621\u064e\u0627\u0646\u064b\u0627 \u0641\u064e\u0631\u064e\u0642\u0652\u0646\u064e\u0670\u0647\u064f \u0644\u0650\u062a\u064e\u0642\u0652\u0631\u064e\u0623\u064e\u0647\u064f\u06e5 \u0639\u064e\u0644\u064e\u0649 \u0671\u0644\u0646\u0651\u064e\u0627\u0633\u0650 \u0639\u064e\u0644\u064e\u0649\u0670 \u0645\u064f\u0643\u0652\u062b\u064d \u0648\u064e\u0646\u064e\u0632\u0651\u064e\u0644\u0652\u0646\u064e\u0670\u0647\u064f \u062a\u064e\u0646\u0632\u0650\u064a\u0644\u064b\u0627",
+    "ENGLISH": {
+        "TRANSLATION_0": "We have divided up the Qur'an, so you can recite it to mankind at intervals, and We have sent it down little by little.",
+        "TRANSLATION_1": "We have divided the Qur'an into parts that you may recite it to men slowly, with deliberation. That is why We sent it down by degrees.\n",
+        "TRANSLATION_2": "We have revealed the Qur'an in parts that you may recite it to people slowly and with deliberation; and (for that reason) We have revealed it gradually (to suit particular occasions).\n",
+        "TRANSLATION_3": "We have divided the Quran into many segments so that you would read them to the people in gradual steps as We reveal them to you from time to time.\n",
+        "TRANSLATION_4": "And We sent down the Qur\u2019an in parts, that you may gradually recite it to the people, and We sent it down slowly in stages.\n",
+        "TRANSLATION_5": "And a Qur'an which We have divided (into parts), in order that you might recite it to men at intervals. And We have revealed it by stages.\n",
+        "TRANSLATION_6": "And it is a Quran which We have revealed in portions so that you may read it to the people by slow degrees, and We have revealed it, revealing in portions.\n",
+        "TRANSLATION_7": "and a Koran We have divided, for thee to recite it to mankind at intervals, and We have sent it down successively.\n",
+        "TRANSLATION_8": "And (it is) a Qur'an that We have divided, that thou mayst recite it unto mankind at intervals, and We have revealed it by (successive) revelation.\n",
+        "TRANSLATION_9": "We have revealed the Quran bit by bit so that you may recite it to the people slowly and with deliberation. We have imparted it by gradual revelation.\n",
+        "TRANSLATION_10": "And this is a Recitation which We have made distinct that thou mayest recite it unto mankind with delay, and We have revealed it at intervals.\n",
+        "TRANSLATION_11": "We have sent the Quran in [discrete] parts so that you may recite it for the people a little at a time, and We have sent it down piecemeal.\n",
+        "TRANSLATION_12": "(It is) a Qur'an which We have divided (into parts from time to time), in order that thou mightest recite it to men at intervals: We have revealed it by stages.\n",
+        "TRANSLATION_13": "And (it is) a Quran which We have divided (into parts), in order that you might recite it to men at intervals. And We have revealed it by stages. (in 23 years).\n",
+        "TRANSLATION_14": "and We have divided the Koran for you to recite at intervals to mankind and We have sent it down successively.\n",
+        "TRANSLATION_15": "A Quran which We unfolded gradually, that you may recite to the people over time. And We revealed it in stages.\n",
+        "TRANSLATION_16": "And [it is] a Qur'an which We have separated [by intervals] that you might recite it to the people over a prolonged period. And We have sent it down progressively.\n",
+        "TRANSLATION_17": "[17:106] And [it is] a Qur\u2019\u0101n (qur\u2019\u0101nan is in the accusative because of the verb governing it [which is the following]) that We have divided, that We have revealed in portions over 20 or 23 years, that you may recite it to mankind at intervals, gradually and with deliberateness so that they [are able to] comprehend it, and We   have revealed it by [successive] revelation, one part after another, according to what is best [for mankind].\n",
+        "TRANSLATION_18": "(And (it is) a Qur'an) And We have sent Gabriel with the Qur'an (that We have divided) We explained therein the lawful and unlawful, the commands and prohibitions, (that thou mayst recite it unto mankind at intervals) in a composed manner, deliberately and thoughtfully, (and We have revealed it by (successive) revelation) We have exposited it clearly; it is also said that this means: We have sent Gabriel with the Qur'an in different phases, each time with two or three verses, and so on and so forth.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "17:106",
+            "73:4",
+            "39:27",
+            "20:2",
+            "17:89",
+            "76:23",
+            "12:103",
+            "26:39",
+            "84:21",
+            "30:58"
+        ],
+        "BIBLE": [
+            "torah:exodus:9:14",
+            "prophets:i%20samuel:9:16",
+            "torah:numbers:31:27",
+            "writings:ii%20chronicles:10:16",
+            "writings:psalms:78:25",
+            "prophets:zechariah:2:15",
+            "writings:daniel:2:30",
+            "writings:daniel:12:7",
+            "writings:esther:4:11",
+            "prophets:ii%20samuel:19:44"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:5:2",
+            "Sefer%20Yetzirah:3:6",
+            "Sefer%20Yetzirah:4:6",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:3:4",
+            "Sefer%20Yetzirah:4:7",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:5:1"
+        ]
+    }
+}

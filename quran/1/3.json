@@ -1,0 +1,63 @@
+{
+    "VERSE": "1:3",
+    "ARABIC": "\u0671\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650",
+    "ENGLISH": {
+        "TRANSLATION_0": "the All-Merciful, the Most Merciful,",
+        "TRANSLATION_1": "Most beneficent, ever-merciful,\n",
+        "TRANSLATION_2": "The Merciful, the Compassionate\n",
+        "TRANSLATION_3": "the Beneficent, the Merciful\n",
+        "TRANSLATION_4": "The Most Gracious, the Most Merciful\n",
+        "TRANSLATION_5": "Ar-Rahman (the Most Gracious), Ar-Rahim (the Most Merciful).\n",
+        "TRANSLATION_6": "The Beneficent, the Merciful.\n",
+        "TRANSLATION_7": "the All-merciful, the All-compassionate,\n",
+        "TRANSLATION_8": "The Beneficent, the Merciful.\n",
+        "TRANSLATION_9": "the Beneficent, the Merciful;\n",
+        "TRANSLATION_10": "The Compassionate, the Merciful.\n",
+        "TRANSLATION_11": "the All-beneficent, the All-merciful,\n",
+        "TRANSLATION_12": "Most Gracious, Most Merciful;\n",
+        "TRANSLATION_13": "The Most Beneficent, the Most Merciful.\n",
+        "TRANSLATION_14": "the Merciful, the Most Merciful,\n",
+        "TRANSLATION_15": "The Most Gracious, the Most Merciful.\n",
+        "TRANSLATION_16": "The Entirely Merciful, the Especially Merciful,\n",
+        "TRANSLATION_17": "[1:3] The Compassionate, the Merciful: that is to say, the One who possesses \u2018mercy\u2019, which means to want what is good for those who deserve it.\n",
+        "TRANSLATION_18": "(The Beneficent) the Gentle. (The Merciful) the Gentle.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "1:3",
+            "55:1",
+            "41:2",
+            "36:5",
+            "20:5",
+            "26:217",
+            "1:1",
+            "19:85",
+            "2:160",
+            "19:88"
+        ],
+        "BIBLE": [
+            "writings:psalms:116:5",
+            "writings:psalms:103:8",
+            "writings:psalms:145:8",
+            "prophets:isaiah:30:18",
+            "writings:psalms:111:4",
+            "prophets:joel:2:13",
+            "writings:psalms:86:15",
+            "writings:psalms:77:10",
+            "writings:psalms:51:3",
+            "writings:nehemiah:9:31"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:3:2",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:4:3",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:4:10",
+            "Sefer%20Yetzirah:3:7"
+        ]
+    }
+}

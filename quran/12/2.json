@@ -1,0 +1,63 @@
+{
+    "VERSE": "12:2",
+    "ARABIC": "\u0625\u0650\u0646\u0651\u064e\u0627\u0653 \u0623\u064e\u0646\u0632\u064e\u0644\u0652\u0646\u064e\u0670\u0647\u064f \u0642\u064f\u0631\u0652\u0621\u064e\u0670\u0646\u064b\u0627 \u0639\u064e\u0631\u064e\u0628\u0650\u064a\u0651\u064b\u0627 \u0644\u0651\u064e\u0639\u064e\u0644\u0651\u064e\u0643\u064f\u0645\u0652 \u062a\u064e\u0639\u0652\u0642\u0650\u0644\u064f\u0648\u0646\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "We have sent it down as an Arabic Qur'an so that hopefully you will use your intellect.",
+        "TRANSLATION_1": "We have sent it down as a clear discourse that you may understand.\n",
+        "TRANSLATION_2": "We have revealed it as a Recitation in Arabic that you may fully understand.\n",
+        "TRANSLATION_3": "We have revealed it in the Arabic language so that you (people) would understand it.\n",
+        "TRANSLATION_4": "Indeed We have sent down an Arabic Qur\u2019an, so that you may perceive.\n",
+        "TRANSLATION_5": "Verily, We have sent it down as an Arabic Qur'an in order that you may understand.\n",
+        "TRANSLATION_6": "Surely We have revealed it-- an Arabic Quran-- that you may understand.\n",
+        "TRANSLATION_7": "We have sent it down as an Arabic Koran; haply you will understand.\n",
+        "TRANSLATION_8": "Lo! We have revealed it, a Lecture in Arabic, that ye may understand.\n",
+        "TRANSLATION_9": "We have sent down the Quran in Arabic, so that you may understand.\n",
+        "TRANSLATION_10": "Verily We! We have sent it down, an Arabic Recitation, that haply ye may reflect.\n",
+        "TRANSLATION_11": "Indeed We have sent it down as an Arabic Quran so that you may exercise your reason.\n",
+        "TRANSLATION_12": "We have sent it down as an Arabic Qur'an, in order that ye may learn wisdom.\n",
+        "TRANSLATION_13": "Verily, We have sent it down as an Arabic Quran in order that you may understand.\n",
+        "TRANSLATION_14": "We have sent it down, an Arabic Koran, in order that you understand.\n",
+        "TRANSLATION_15": "We have revealed it an Arabic Quran, so that you may understand.\n",
+        "TRANSLATION_16": "Indeed, We have sent it down as an Arabic Qur'an that you might understand.\n",
+        "TRANSLATION_17": "[12:2] We have revealed it as an Arabic Qur\u2019\u0101n, in the language of the Arabs, so that you, O people of Mecca, might understand, comprehend its meaning.\n",
+        "TRANSLATION_18": "(Lo! We have revealed it, a Lecture in Arabic) He says: We have sent down Gabriel with the Qur'an to Muhammad in accordance with the usage of the Arabic language, (that ye may understand) that which you were commanded to do and that in which you were prohibited from engaging.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "43:3",
+            "12:2",
+            "20:113",
+            "39:28",
+            "76:23",
+            "41:3",
+            "56:77",
+            "55:2",
+            "75:17",
+            "41:26"
+        ],
+        "BIBLE": [
+            "torah:deuteronomy:4:6",
+            "prophets:isaiah:6:9",
+            "prophets:ezekiel:3:6",
+            "writings:job:12:13",
+            "torah:exodus:3:7",
+            "prophets:isaiah:11:2",
+            "writings:psalms:94:8",
+            "prophets:zephaniah:3:9",
+            "writings:proverbs:23:23",
+            "writings:psalms:119:71"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:4",
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:4:1",
+            "Sefer%20Yetzirah:5:1",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:4:5",
+            "Sefer%20Yetzirah:1:13",
+            "Sefer%20Yetzirah:1:6"
+        ]
+    }
+}

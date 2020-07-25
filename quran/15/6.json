@@ -1,0 +1,63 @@
+{
+    "VERSE": "15:6",
+    "ARABIC": "\u0648\u064e\u0642\u064e\u0627\u0644\u064f\u0648\u0627\u06df \u064a\u064e\u0670\u0653\u0623\u064e\u064a\u0651\u064f\u0647\u064e\u0627 \u0671\u0644\u0651\u064e\u0630\u0650\u0649 \u0646\u064f\u0632\u0651\u0650\u0644\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0671\u0644\u0630\u0651\u0650\u0643\u0652\u0631\u064f \u0625\u0650\u0646\u0651\u064e\u0643\u064e \u0644\u064e\u0645\u064e\u062c\u0652\u0646\u064f\u0648\u0646\u064c",
+    "ENGLISH": {
+        "TRANSLATION_0": "They say, 'You, to whom the Reminder has been sent down, are clearly mad.",
+        "TRANSLATION_1": "And yet they say: \"You, to whom this Exposition has been sent are surely possessed of the Devil.\n",
+        "TRANSLATION_2": "They say: \"O you to whom the Admonition has been revealed, you are surely crazed.\n",
+        "TRANSLATION_3": "(The unbelievers have said), \"You to whom the Quran has been revealed are insane.\n",
+        "TRANSLATION_4": "And they said, \u201cO you upon whom the Qur\u2019an has been sent, you are indeed insane.\u201d\n",
+        "TRANSLATION_5": "And they say: \"O you (Muhammad) to whom the Dhikr (the Qur'an) has been revealed! Verily, you are a madman!\n",
+        "TRANSLATION_6": "And they say: O you to whom the Reminder has been revealed! you are most surely insane:\n",
+        "TRANSLATION_7": "They say: 'Thou, upon whom the Remembrance is sent down, thou art assuredly possessed!\n",
+        "TRANSLATION_8": "And they say: O thou unto whom the Reminder is revealed, lo! thou art indeed a madman!\n",
+        "TRANSLATION_9": "They say, \"You to whom the Reminder [the Quran] has been sent down, you are surely possessed.\n",
+        "TRANSLATION_10": "And they say: O thou unto whom the Admonition hath been sent down! verily thou art possessed.\n",
+        "TRANSLATION_11": "They said, \u2018O you, to whom the Reminder has been sent down, you are indeed crazy.\n",
+        "TRANSLATION_12": "They say: \"O thou to whom the Message is being revealed! truly thou art mad (or possessed)!\n",
+        "TRANSLATION_13": "And they say: \"O you (Muhammad SAW) to whom the Dhikr (the Quran) has been sent down! Verily, you are a mad man.\n",
+        "TRANSLATION_14": "They say: 'You to whom the Remembrance is sent down, you are indeed mad.\n",
+        "TRANSLATION_15": "And they said, \u201cO you who received the message, you are insane.\u201d\n",
+        "TRANSLATION_16": "And they say, \"O you upon whom the message has been sent down, indeed you are mad.\n",
+        "TRANSLATION_17": "[15:6] And they, that is, the disbelievers of Mecca, say, to the Prophet (s): \u2018O you, to whom the Remembrance, the Qur\u2019\u0101n \u2014 as you claim \u2014 has been revealed, lo! you are indeed possessed!\n",
+        "TRANSLATION_18": "(And they) this refers to 'Abdullah Ibn Umayyah al-Makhzumi and his host who (say) to Muhammad (pbuh): (0 thou unto whom the Reminder is revealed) you who claim that Gabriel brought you the Qur'an, (lo! thou art indeed a madman!) who is inventing lies. 272\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "15:6",
+            "29:9",
+            "37:137",
+            "23:95",
+            "15:9",
+            "15:23",
+            "26:19",
+            "7:6",
+            "43:42",
+            "68:51"
+        ],
+        "BIBLE": [
+            "prophets:i%20kings:17:18",
+            "prophets:ezekiel:8:15",
+            "writings:daniel:10:11",
+            "torah:genesis:44:15",
+            "prophets:zechariah:3:2",
+            "prophets:ezekiel:3:10",
+            "torah:genesis:3:9",
+            "prophets:ii%20kings:1:11",
+            "prophets:ii%20kings:1:6",
+            "prophets:jonah:1:10"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:6:2",
+            "Sefer%20Yetzirah:4:3",
+            "Sefer%20Yetzirah:4:10",
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:4:9",
+            "Sefer%20Yetzirah:4:6",
+            "Sefer%20Yetzirah:2:2",
+            "Sefer%20Yetzirah:4:7"
+        ]
+    }
+}

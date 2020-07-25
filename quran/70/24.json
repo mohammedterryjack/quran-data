@@ -1,0 +1,63 @@
+{
+    "VERSE": "70:24",
+    "ARABIC": "\u0648\u064e\u0671\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u0641\u0650\u0649\u0653 \u0623\u064e\u0645\u0652\u0648\u064e\u0670\u0644\u0650\u0647\u0650\u0645\u0652 \u062d\u064e\u0642\u0651\u064c \u0645\u0651\u064e\u0639\u0652\u0644\u064f\u0648\u0645\u064c",
+    "ENGLISH": {
+        "TRANSLATION_0": "those in whose wealth there is a known share",
+        "TRANSLATION_1": "In whose wealth a due share is included\n",
+        "TRANSLATION_2": "and those in whose wealth there is a known right\n",
+        "TRANSLATION_3": "They are those who assign a certain share of their property\n",
+        "TRANSLATION_4": "And those in whose wealth exists a recognised right,\n",
+        "TRANSLATION_5": "And those in whose wealth there is a recognized right.\n",
+        "TRANSLATION_6": "And those in whose wealth there is a fixed portion.\n",
+        "TRANSLATION_7": "those in whose wealth is a right known\n",
+        "TRANSLATION_8": "And in whose wealth there is a right acknowledged\n",
+        "TRANSLATION_9": "those who give a due share of their wealth\n",
+        "TRANSLATION_10": "And those in whose riches is a known right.\n",
+        "TRANSLATION_11": "and there is a known share in whose wealth\n",
+        "TRANSLATION_12": "And those in whose wealth is a recognised right.\n",
+        "TRANSLATION_13": "And those in whose wealth there is a known right,\n",
+        "TRANSLATION_14": "who, from their wealth is a known right\n",
+        "TRANSLATION_15": "And those in whose wealth is a rightful share.\n",
+        "TRANSLATION_16": "And those within whose wealth is a known right\n",
+        "TRANSLATION_17": "[70:24] and in whose wealth there is an acknowledged due, namely, alms,\n",
+        "TRANSLATION_18": "(And in whose wealth there is a right acknowledged) they acknowledge that there is in their wealth a right other than the prescribed poor-due,\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "70:24",
+            "51:19",
+            "104:2",
+            "74:12",
+            "111:2",
+            "92:18",
+            "7:118",
+            "16:3",
+            "10:103",
+            "103:3"
+        ],
+        "BIBLE": [
+            "torah:deuteronomy:21:17",
+            "writings:psalms:140:13",
+            "prophets:isaiah:61:9",
+            "prophets:isaiah:59:8",
+            "prophets:isaiah:40:14",
+            "writings:ecclesiastes:5:18",
+            "writings:job:36:6",
+            "prophets:isaiah:41:26",
+            "writings:proverbs:20:11",
+            "torah:numbers:27:7"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:13",
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:5:2",
+            "Sefer%20Yetzirah:1:4",
+            "Sefer%20Yetzirah:6:5",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:5:1",
+            "Sefer%20Yetzirah:4:1",
+            "Sefer%20Yetzirah:4:7",
+            "Sefer%20Yetzirah:4:5"
+        ]
+    }
+}

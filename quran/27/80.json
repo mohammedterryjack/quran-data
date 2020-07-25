@@ -1,0 +1,63 @@
+{
+    "VERSE": "27:80",
+    "ARABIC": "\u0625\u0650\u0646\u0651\u064e\u0643\u064e \u0644\u064e\u0627 \u062a\u064f\u0633\u0652\u0645\u0650\u0639\u064f \u0671\u0644\u0652\u0645\u064e\u0648\u0652\u062a\u064e\u0649\u0670 \u0648\u064e\u0644\u064e\u0627 \u062a\u064f\u0633\u0652\u0645\u0650\u0639\u064f \u0671\u0644\u0635\u0651\u064f\u0645\u0651\u064e \u0671\u0644\u062f\u0651\u064f\u0639\u064e\u0627\u0653\u0621\u064e \u0625\u0650\u0630\u064e\u0627 \u0648\u064e\u0644\u0651\u064e\u0648\u0652\u0627\u06df \u0645\u064f\u062f\u0652\u0628\u0650\u0631\u0650\u064a\u0646\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "You will not make dead men hear and you will not make deaf men hear the call when they turn their backs in flight.",
+        "TRANSLATION_1": "You cannot make the dead to listen, or the deaf to hear the call, when they have turned their backs,\n",
+        "TRANSLATION_2": "Surely you cannot make the dead hear you, nor can you make the deaf hear your call if they turn back in flight,\n",
+        "TRANSLATION_3": "You cannot make the dead listen and the deaf are unable to hear calls. Thus, they turn back on their heels.\n",
+        "TRANSLATION_4": "Indeed the dead* do not listen to your call nor do the deaf* listen to your call, when they flee turning back. (The dead and deaf implies the disbelievers.)\n",
+        "TRANSLATION_5": "Verily, you cannot make the dead to hear nor can you make the deaf to hear the call, when they flee, turning their backs.\n",
+        "TRANSLATION_6": "Surely you do not make the dead to hear, and you do not make the deaf to hear the call when they go back retreating.\n",
+        "TRANSLATION_7": "Thou shalt not make the dead to hear, neither shalt thou make the deaf to hear the call when they turn about, retreating.\n",
+        "TRANSLATION_8": "Lo! thou canst not make the dead to hear, nor canst thou make the deaf to hear the call when they have turned to flee;\n",
+        "TRANSLATION_9": "You cannot make the dead hear, nor can you make the deaf hear your call, when they turn their backs on it,\n",
+        "TRANSLATION_10": "Verily thou canst not make the dead hear, nor canst thou make the deaf hear the call when they flee turning their backs.\n",
+        "TRANSLATION_11": "You cannot make the dead hear, nor can you make the deaf listen to your call when they turn their backs,\n",
+        "TRANSLATION_12": "Truly thou canst not cause the dead to listen, nor canst thou cause the deaf to hear the call, (especially) when they turn back in retreat.\n",
+        "TRANSLATION_13": "Verily, you cannot make the dead to hear (i.e. benefit them and similarly the disbelievers), nor can you make the deaf to hear the call, when they flee, turning their backs.\n",
+        "TRANSLATION_14": "You do not make the dead hear, nor do you make the deaf hear you call when they turn about, retreating.\n",
+        "TRANSLATION_15": "You cannot make the dead hear, nor can you make the deaf hear the call if they turn their backs and flee.\n",
+        "TRANSLATION_16": "Indeed, you will not make the dead hear, nor will you make the deaf hear the call when they have turned their backs retreating.\n",
+        "TRANSLATION_17": "[27:80] Indeed you cannot make the dead hear, nor can you make the deaf hear the call when (al-du\u2018\u0101\u2019a idh\u0101, read by pronouncing both hamzas, or by not pronouncing the second one, eliding it with the y\u0101\u2019) they have turned their backs [upon you];\n",
+        "TRANSLATION_18": "(Lo! thou canst not) Muhammad (make the dead) of hearts; and it is said: those who are like the dead, (to hear, nor canst thou make the deaf) those whose hearts are dead; it is also said that this means: those who pretend to be deaf (to hear the call) your call to the Truth and guidance (when they have turned) turn away (to flee) from the Truth and guidance;\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "27:80",
+            "30:52",
+            "21:45",
+            "39:30",
+            "10:42",
+            "37:13",
+            "2:171",
+            "23:15",
+            "27:10",
+            "28:31"
+        ],
+        "BIBLE": [
+            "torah:exodus:23:27",
+            "writings:psalms:21:13",
+            "writings:job:41:20",
+            "writings:ii%20chronicles:6:24",
+            "prophets:i%20kings:8:33",
+            "writings:job:22:27",
+            "torah:deuteronomy:30:12",
+            "prophets:zephaniah:3:20",
+            "prophets:ii%20samuel:22:41",
+            "torah:deuteronomy:20:12"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:2:4",
+            "Sefer%20Yetzirah:1:4",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:5:1",
+            "Sefer%20Yetzirah:1:13"
+        ]
+    }
+}

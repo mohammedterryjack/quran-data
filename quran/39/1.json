@@ -1,0 +1,63 @@
+{
+    "VERSE": "39:1",
+    "ARABIC": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0671\u0644\u0644\u0651\u064e\u0647\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u062a\u064e\u0646\u0632\u0650\u064a\u0644\u064f \u0671\u0644\u0652\u0643\u0650\u062a\u064e\u0670\u0628\u0650 \u0645\u0650\u0646\u064e \u0671\u0644\u0644\u0651\u064e\u0647\u0650 \u0671\u0644\u0652\u0639\u064e\u0632\u0650\u064a\u0632\u0650 \u0671\u0644\u0652\u062d\u064e\u0643\u0650\u064a\u0645\u0650",
+    "ENGLISH": {
+        "TRANSLATION_0": "The revelation of the Book is from Allah, the Almighty, the All-Wise.",
+        "TRANSLATION_1": "THE REVELATION OF this Book is from God, the mighty and all-wise.\n",
+        "TRANSLATION_2": "The revelation of this Book is from Allah, the Most Mighty, the Most Wise.\n",
+        "TRANSLATION_3": "This Book is a revelation from God, the Majestic and All-Wise.\n",
+        "TRANSLATION_4": "The revelation of the Book is from Allah, the Most Honourable, the Wise.\n",
+        "TRANSLATION_5": "The revelation of this Book is from Allah, the Almighty, the All-Wise.\n",
+        "TRANSLATION_6": "The revelation of the Book is from Allah, the Mighty, the Wise.\n",
+        "TRANSLATION_7": "The sending down of the Book is from God the All-mighty, the All-wise.\n",
+        "TRANSLATION_8": "The revelation of the Scripture is from Allah, the Mighty, the Wise.\n",
+        "TRANSLATION_9": "This Book is sent down by God the Mighty, the Wise.\n",
+        "TRANSLATION_10": "The revelation of this Book is from Allah, the Mighty, the Wise.\n",
+        "TRANSLATION_11": "The [gradual] sending down of the Book is from Allah, the All-mighty, the All-wise.\n",
+        "TRANSLATION_12": "The revelation of this Book is from Allah, the Exalted in Power, full of Wisdom.\n",
+        "TRANSLATION_13": "The revelation of this Book (the Quran) is from Allah, the All-Mighty, the All-Wise.\n",
+        "TRANSLATION_14": "The sending down of the Book is from Allah, the Almighty, the Wise,\n",
+        "TRANSLATION_15": "The revelation of the Book is from God, the Mighty and Wise.\n",
+        "TRANSLATION_16": "The revelation of the Qur'an is from Allah, the Exalted in Might, the Wise.\n",
+        "TRANSLATION_17": "[39:1] The revelation of the Book, the Qur\u2019\u0101n (tanz\u012blu\u2019l-kit\u0101bi, the subject) is from God (mina\u2019Ll\u0101hi, its predicate) the Mighty, in His kingdom, the Wise, in His handiwork.\n",
+        "TRANSLATION_18": "And from his narration on the authority of Ibn 'Abbas that he said regarding the interpretation of Allah's saying: (The revelation of the Scripture): '(The revelation of the Scripture is) He says: this Scripture is an address (from Allah, the Mighty) in retribution against those who disbelieve in Him, (the Wise) in His command and decree; He commanded that none should be worshipped except Him.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "46:2",
+            "39:1",
+            "45:2",
+            "40:2",
+            "27:9",
+            "4:158",
+            "42:3",
+            "31:9",
+            "34:27",
+            "2:209"
+        ],
+        "BIBLE": [
+            "writings:proverbs:8:14",
+            "writings:psalms:147:5",
+            "writings:psalms:21:14",
+            "writings:esther:10:2",
+            "writings:job:37:23",
+            "prophets:i%20kings:11:41",
+            "writings:job:39:17",
+            "writings:daniel:2:20",
+            "torah:numbers:22:15",
+            "writings:daniel:8:24"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:4:1",
+            "Sefer%20Yetzirah:1:4",
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:1:5",
+            "Sefer%20Yetzirah:3:2",
+            "Sefer%20Yetzirah:4:9",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:1:14",
+            "Sefer%20Yetzirah:6:4"
+        ]
+    }
+}

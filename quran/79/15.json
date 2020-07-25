@@ -1,0 +1,63 @@
+{
+    "VERSE": "79:15",
+    "ARABIC": "\u0647\u064e\u0644\u0652 \u0623\u064e\u062a\u064e\u0649\u0670\u0643\u064e \u062d\u064e\u062f\u0650\u064a\u062b\u064f \u0645\u064f\u0648\u0633\u064e\u0649\u0670\u0653",
+    "ENGLISH": {
+        "TRANSLATION_0": "Has the story of Musa reached you:",
+        "TRANSLATION_1": "Has the story of Moses come to you\n",
+        "TRANSLATION_2": "Has Moses' story reached you?\n",
+        "TRANSLATION_3": "(Muhammad), have you heard the story of Moses\n",
+        "TRANSLATION_4": "Did the news of Moosa reach you?\n",
+        "TRANSLATION_5": "Has there come to you the story of Musa\n",
+        "TRANSLATION_6": "Has not there come to you the story of Musa?\n",
+        "TRANSLATION_7": "Hast thou received the story of Moses?\n",
+        "TRANSLATION_8": "Hath there come unto thee the history of Moses?\n",
+        "TRANSLATION_9": "Have you heard the story of Moses?\n",
+        "TRANSLATION_10": "Hath there come Unto thee the story of Musa!\n",
+        "TRANSLATION_11": "Did you receive the story of Moses,\n",
+        "TRANSLATION_12": "Has the story of Moses reached thee?\n",
+        "TRANSLATION_13": "Has there come to you the story of Musa (Moses)?\n",
+        "TRANSLATION_14": "Have you received the story of Moses?\n",
+        "TRANSLATION_15": "Has the story of Moses reached you?\n",
+        "TRANSLATION_16": "Has there reached you the story of Moses? -\n",
+        "TRANSLATION_17": "[79:15] Have you, O Muhammad (s), received the story of Moses (had\u012bthu M\u016bs\u0101 operates [the clause that follows]),\n",
+        "TRANSLATION_18": "(Hath there come unto thee) Muhammad (the history of Moses) the story of Moses? Meaning: the story of Moses has already come to you; and it is also said this means: the story of Moses has not yet come to you.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "79:15",
+            "20:9",
+            "88:1",
+            "85:17",
+            "51:24",
+            "53:59",
+            "56:81",
+            "37:54",
+            "77:50",
+            "52:34"
+        ],
+        "BIBLE": [
+            "prophets:jeremiah:38:25",
+            "writings:psalms:102:2",
+            "writings:ii%20chronicles:25:16",
+            "writings:job:38:17",
+            "writings:proverbs:3:28",
+            "prophets:ezekiel:24:26",
+            "prophets:joshua:9:9",
+            "torah:deuteronomy:4:33",
+            "writings:daniel:10:12",
+            "torah:genesis:31:44"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:4:3",
+            "Sefer%20Yetzirah:2:2",
+            "Sefer%20Yetzirah:5:1",
+            "Sefer%20Yetzirah:1:1"
+        ]
+    }
+}

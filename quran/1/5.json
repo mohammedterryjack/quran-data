@@ -1,0 +1,63 @@
+{
+    "VERSE": "1:5",
+    "ARABIC": "\u0625\u0650\u064a\u0651\u064e\u0627\u0643\u064e \u0646\u064e\u0639\u0652\u0628\u064f\u062f\u064f \u0648\u064e\u0625\u0650\u064a\u0651\u064e\u0627\u0643\u064e \u0646\u064e\u0633\u0652\u062a\u064e\u0639\u0650\u064a\u0646\u064f",
+    "ENGLISH": {
+        "TRANSLATION_0": "You alone we worship. You alone we ask for help.",
+        "TRANSLATION_1": "You alone we worship, and to You alone turn for help.\n",
+        "TRANSLATION_2": "You alone do we worship, and You alone do we turn for help\n",
+        "TRANSLATION_3": "(Lord), You alone We do worship and from You alone we do seek assistance\n",
+        "TRANSLATION_4": "You alone we worship and from You alone we seek help (and may we always).\n",
+        "TRANSLATION_5": "You we worship, and You we ask for help.\n",
+        "TRANSLATION_6": "Thee do we serve and Thee do we beseech for help.\n",
+        "TRANSLATION_7": "Thee only we serve; to Thee alone we pray for succour.\n",
+        "TRANSLATION_8": "Thee (alone) we worship; Thee (alone) we ask for help.\n",
+        "TRANSLATION_9": "You alone we worship, and to You alone we turn for help.\n",
+        "TRANSLATION_10": "Thee alone do we worship and of Thee alone do we seek help,\n",
+        "TRANSLATION_11": "You [alone] do we worship, and to You [alone] do we turn for help.\n",
+        "TRANSLATION_12": "Thee do we worship, and Thine aid we seek.\n",
+        "TRANSLATION_13": "You (Alone) we worship, and you (Alone) we ask for help (for each and everything).\n",
+        "TRANSLATION_14": "You (alone) we worship; and You (alone) we rely for help.\n",
+        "TRANSLATION_15": "It is You we worship, and upon You we call for help.\n",
+        "TRANSLATION_16": "It is You we worship and You we ask for help.\n",
+        "TRANSLATION_17": "[1:5] You [alone] we worship, and You [alone] we ask for help: that is to say, we reserve worship for You [alone] by way of acknowledging Your Oneness (tawh\u012bd) and so on, and we ask for [Your] assistance in worship and in other things.\n",
+        "TRANSLATION_18": "(Thee (alone) we worship), we turn to you as the only One God and we obey you; ((Thee alone) we ask for help), we ask for your help in worshipping You and from You we obtain confidence in obeying You.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "1:5",
+            "80:1",
+            "68:18",
+            "93:8",
+            "93:7",
+            "74:18",
+            "26:79",
+            "53:60",
+            "10:63",
+            "101:10"
+        ],
+        "BIBLE": [
+            "torah:deuteronomy:11:16",
+            "prophets:joshua:24:20",
+            "prophets:i%20samuel:15:30",
+            "prophets:i%20samuel:15:31",
+            "prophets:i%20samuel:15:25",
+            "prophets:i%20samuel:12:20",
+            "writings:psalms:22:28",
+            "writings:song%20of%20songs:6:1",
+            "torah:deuteronomy:8:19",
+            "prophets:ii%20samuel:15:31"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:1:11",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:5:4",
+            "Sefer%20Yetzirah:1:3",
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:4:5"
+        ]
+    }
+}

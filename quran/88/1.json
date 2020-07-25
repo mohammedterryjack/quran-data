@@ -1,0 +1,63 @@
+{
+    "VERSE": "88:1",
+    "ARABIC": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0671\u0644\u0644\u0651\u064e\u0647\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0647\u064e\u0644\u0652 \u0623\u064e\u062a\u064e\u0649\u0670\u0643\u064e \u062d\u064e\u062f\u0650\u064a\u062b\u064f \u0671\u0644\u0652\u063a\u064e\u0670\u0634\u0650\u064a\u064e\u0629\u0650",
+    "ENGLISH": {
+        "TRANSLATION_0": "Has news of the Overwhelmer reached you?",
+        "TRANSLATION_1": "HAS NEWS OF the Overpowering Event reached you?\n",
+        "TRANSLATION_2": "Has the news of the overwhelming event reached you?\n",
+        "TRANSLATION_3": "Have you heard the story of the overwhelming event (the Day of Judgment)?\n",
+        "TRANSLATION_4": "Certainly the news of the calamity that will overwhelm has come to you!\n",
+        "TRANSLATION_5": "Has there come to you the narration of Al-Ghashiyah (the overwhelming)\n",
+        "TRANSLATION_6": "Has not there come to you the news of the overwhelming calamity?\n",
+        "TRANSLATION_7": "Hast thou received the story of the Enveloper?\n",
+        "TRANSLATION_8": "Hath there come unto thee tidings of the Overwhelming?\n",
+        "TRANSLATION_9": "Have you heard about the Overwhelming Event?\n",
+        "TRANSLATION_10": "Hath there come Unto thee the story of the Enveloping Event?\n",
+        "TRANSLATION_11": "Did you receive the account of the Enveloper?\n",
+        "TRANSLATION_12": "Has the story reached thee of the overwhelming (Event)?\n",
+        "TRANSLATION_13": "Has there come to you the narration of the overwhelming (i.e. the Day of Resurrection);\n",
+        "TRANSLATION_14": "Have you received the news of the Enveloper?\n",
+        "TRANSLATION_15": "Has there come to you the news of the overwhelming?\n",
+        "TRANSLATION_16": "Has there reached you the report of the Overwhelming [event]?\n",
+        "TRANSLATION_17": "[88:1] Has there \u2014 [there has] indeed \u2014 come to you the tiding of the Enveloper?, the Resurrection, [so called] because it \u2018envelops\u2019 creatures with its terrors.\n",
+        "TRANSLATION_18": "And from his narration on the authority of Ibn 'Abbas that he said concerning the interpretation of Allah's saying (Hath there come unto you): '(Hath there come unto you) He says: it has not come unto you, Muhammad, before but now it has; it is also said that this means: it has come unto you (tidings of the Overwhelming) the news of the coming of the Hour? It is also said the Overwhelming refers to the Fire overwhelming its dwellers.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "88:1",
+            "79:15",
+            "85:17",
+            "20:9",
+            "51:24",
+            "53:59",
+            "56:81",
+            "37:54",
+            "69:3",
+            "86:2"
+        ],
+        "BIBLE": [
+            "prophets:jeremiah:38:25",
+            "prophets:ezekiel:24:26",
+            "torah:numbers:24:14",
+            "prophets:i%20kings:2:42",
+            "writings:daniel:10:12",
+            "prophets:ii%20samuel:13:30",
+            "writings:ii%20chronicles:25:16",
+            "prophets:ezekiel:22:4",
+            "writings:proverbs:3:28",
+            "prophets:haggai:2:20"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:4:10",
+            "Sefer%20Yetzirah:4:9",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:4:7",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:4:8",
+            "Sefer%20Yetzirah:4:6",
+            "Sefer%20Yetzirah:1:7"
+        ]
+    }
+}

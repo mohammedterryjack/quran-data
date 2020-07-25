@@ -1,0 +1,63 @@
+{
+    "VERSE": "90:15",
+    "ARABIC": "\u064a\u064e\u062a\u0650\u064a\u0645\u064b\u0627 \u0630\u064e\u0627 \u0645\u064e\u0642\u0652\u0631\u064e\u0628\u064e\u0629\u064d",
+    "ENGLISH": {
+        "TRANSLATION_0": "an orphaned relative",
+        "TRANSLATION_1": "The orphan near in relationship,\n",
+        "TRANSLATION_2": "to an orphan near of kin;\n",
+        "TRANSLATION_3": "an orphaned relative\n",
+        "TRANSLATION_4": "Of a related orphan,\n",
+        "TRANSLATION_5": "To an orphan near of kin.\n",
+        "TRANSLATION_6": "To an orphan, having relationship,\n",
+        "TRANSLATION_7": "to an orphan near of kin\n",
+        "TRANSLATION_8": "An orphan near of kin,\n",
+        "TRANSLATION_9": "of an orphaned relative\n",
+        "TRANSLATION_10": "An orphan, of kin,\n",
+        "TRANSLATION_11": "an orphan among relatives\n",
+        "TRANSLATION_12": "To the orphan with claims of relationship,\n",
+        "TRANSLATION_13": "To an orphan near of kin.\n",
+        "TRANSLATION_14": "to an orphaned relative\n",
+        "TRANSLATION_15": "An orphan near of kin.\n",
+        "TRANSLATION_16": "An orphan of near relationship\n",
+        "TRANSLATION_17": "[90:15] to an orphan near of kin (maqraba means qar\u0101ba),\n",
+        "TRANSLATION_18": "(An orphan near of kin,\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "90:15",
+            "70:7",
+            "4:8",
+            "93:6",
+            "107:2",
+            "93:9",
+            "89:17",
+            "50:41",
+            "2:215",
+            "76:8"
+        ],
+        "BIBLE": [
+            "writings:psalms:119:99",
+            "writings:proverbs:6:16",
+            "writings:lamentations:5:3",
+            "writings:psalms:119:174",
+            "writings:psalms:10:16",
+            "prophets:jeremiah:31:25",
+            "prophets:ii%20kings:19:17",
+            "prophets:ii%20samuel:2:6",
+            "writings:ii%20chronicles:30:4",
+            "prophets:ii%20kings:18:33"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:2:2",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:1:5",
+            "Sefer%20Yetzirah:4:3",
+            "Sefer%20Yetzirah:3:3",
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:2:4",
+            "Sefer%20Yetzirah:1:2",
+            "Sefer%20Yetzirah:1:1"
+        ]
+    }
+}

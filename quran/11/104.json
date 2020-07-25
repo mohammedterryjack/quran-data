@@ -1,0 +1,63 @@
+{
+    "VERSE": "11:104",
+    "ARABIC": "\u0648\u064e\u0645\u064e\u0627 \u0646\u064f\u0624\u064e\u062e\u0651\u0650\u0631\u064f\u0647\u064f\u06e5\u0653 \u0625\u0650\u0644\u0651\u064e\u0627 \u0644\u0650\u0623\u064e\u062c\u064e\u0644\u064d \u0645\u0651\u064e\u0639\u0652\u062f\u064f\u0648\u062f\u064d",
+    "ENGLISH": {
+        "TRANSLATION_0": "We will only postpone it until a predetermined time.",
+        "TRANSLATION_1": "We are deferring it only for a time ordained.\n",
+        "TRANSLATION_2": "Nor shall We withhold it except till an appointed term.\n",
+        "TRANSLATION_3": "during a single day. We have deferred this day for an appointed time.\n",
+        "TRANSLATION_4": "And We do not postpone it except for a fixed term.\n",
+        "TRANSLATION_5": "And We delay it only for a term (already) fixed.\n",
+        "TRANSLATION_6": "And We do not delay it but to an appointed term.\n",
+        "TRANSLATION_7": "and We shall not postpone it, save to a term reckoned;\n",
+        "TRANSLATION_8": "And We defer it only to a term already reckoned.\n",
+        "TRANSLATION_9": "We will only postpone it until a predetermined time,\n",
+        "TRANSLATION_10": "And We defer it not but to a term determined.\n",
+        "TRANSLATION_11": "And We do not defer it but for a determinate term.\n",
+        "TRANSLATION_12": "Nor shall We delay it but for a term appointed.\n",
+        "TRANSLATION_13": "And We delay it only for a term (already) fixed.\n",
+        "TRANSLATION_14": "We shall not postpone it except until a counted term.\n",
+        "TRANSLATION_15": "We only postpone it until a predetermined time.\n",
+        "TRANSLATION_16": "And We do not delay it except for a limited term.\n",
+        "TRANSLATION_17": "[11:104] And We do not defer it but to a term [already] reckoned, [but] to a time predetermined by God.\n",
+        "TRANSLATION_18": "(And We defer it) i.e. that day (only as a term already reckoned) only to an appointed time.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "11:104",
+            "23:43",
+            "15:5",
+            "12:104",
+            "26:211",
+            "38:86",
+            "26:99",
+            "23:38",
+            "37:39",
+            "83:33"
+        ],
+        "BIBLE": [
+            "prophets:jeremiah:30:7",
+            "writings:esther:9:27",
+            "writings:daniel:11:29",
+            "writings:job:14:5",
+            "writings:esther:9:31",
+            "prophets:i%20samuel:13:8",
+            "torah:exodus:23:15",
+            "torah:exodus:9:5",
+            "prophets:isaiah:25:9",
+            "prophets:i%20samuel:9:24"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:4:3",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:1:4",
+            "Sefer%20Yetzirah:4:11",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:1:5",
+            "Sefer%20Yetzirah:6:5",
+            "Sefer%20Yetzirah:3:4"
+        ]
+    }
+}

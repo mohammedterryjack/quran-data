@@ -1,0 +1,63 @@
+{
+    "VERSE": "74:54",
+    "ARABIC": "\u0643\u064e\u0644\u0651\u064e\u0627\u0653 \u0625\u0650\u0646\u0651\u064e\u0647\u064f\u06e5 \u062a\u064e\u0630\u0652\u0643\u0650\u0631\u064e\u0629\u064c",
+    "ENGLISH": {
+        "TRANSLATION_0": "No indeed! It is truly a reminder",
+        "TRANSLATION_1": "Never so, as this is a reminder.\n",
+        "TRANSLATION_2": "Nay; this is an Exhortation.\n",
+        "TRANSLATION_3": "There is no doubt that the Quran is a guide.\n",
+        "TRANSLATION_4": "Yes indeed, this is an advice.\n",
+        "TRANSLATION_5": "Nay, verily, this is an admonition.\n",
+        "TRANSLATION_6": "Nay! it is surely an admonition.\n",
+        "TRANSLATION_7": "No indeed; surely it is a Reminder;\n",
+        "TRANSLATION_8": "Nay, verily. Lo! this is an Admonishment.\n",
+        "TRANSLATION_9": "but this is truly a reminder.\n",
+        "TRANSLATION_10": "By no means! Verily this Qur'an is an Admonition.\n",
+        "TRANSLATION_11": "No! It is indeed a reminder.\n",
+        "TRANSLATION_12": "Nay, this surely is an admonition:\n",
+        "TRANSLATION_13": "Nay, verily, this (Quran) is an admonition,\n",
+        "TRANSLATION_14": "No, indeed, surely, this is a Reminder.\n",
+        "TRANSLATION_15": "Nevertheless, it is a reminder.\n",
+        "TRANSLATION_16": "No! Indeed, the Qur'an is a reminder\n",
+        "TRANSLATION_17": "[74:54] No indeed! (kall\u0101: a commencement [of a new sentence]) Assuredly it, that is, the Qur\u2019\u0101n, is a Reminder, an   admonition.\n",
+        "TRANSLATION_18": "(Nay, verily) Muhammad. (Lo! this is an Admonishment) whoever wishes to take admonition from the Qur'an, will be admonished.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "74:54",
+            "80:11",
+            "70:15",
+            "56:66",
+            "85:13",
+            "74:18",
+            "56:35",
+            "69:20",
+            "37:127",
+            "70:39"
+        ],
+        "BIBLE": [
+            "writings:psalms:25:5",
+            "prophets:i%20samuel:20:26",
+            "torah:numbers:14:18",
+            "torah:numbers:35:16",
+            "writings:proverbs:23:19",
+            "writings:job:31:18",
+            "writings:nehemiah:13:26",
+            "prophets:jeremiah:42:18",
+            "prophets:jeremiah:3:23",
+            "prophets:jeremiah:44:22"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:4:1",
+            "Sefer%20Yetzirah:2:4",
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:5:1",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:4:3"
+        ]
+    }
+}

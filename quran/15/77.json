@@ -1,0 +1,63 @@
+{
+    "VERSE": "15:77",
+    "ARABIC": "\u0625\u0650\u0646\u0651\u064e \u0641\u0650\u0649 \u0630\u064e\u0670\u0644\u0650\u0643\u064e \u0644\u064e\u0621\u064e\u0627\u064a\u064e\u0629\u064b \u0644\u0651\u0650\u0644\u0652\u0645\u064f\u0624\u0652\u0645\u0650\u0646\u0650\u064a\u0646\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "There is certainly a Sign in that for the muminun.",
+        "TRANSLATION_1": "Indeed there is a portent in this for those who believe.\n",
+        "TRANSLATION_2": "Verily there is a Sign in this for the believers.\n",
+        "TRANSLATION_3": "In this there is evidence (of the Truth) for the believers.\n",
+        "TRANSLATION_4": "Indeed in this are signs for the believers.\n",
+        "TRANSLATION_5": "Surely, there is indeed a sign in that for the believers.\n",
+        "TRANSLATION_6": "Most surely there is a sign in this for the believers.\n",
+        "TRANSLATION_7": "surely in that is a sign for believers.\n",
+        "TRANSLATION_8": "Lo! therein is indeed a portent for believers.\n",
+        "TRANSLATION_9": "surely in this there is a sign for those who believe.\n",
+        "TRANSLATION_10": "Verily in that is a sign for the believers.\n",
+        "TRANSLATION_11": "and there is indeed a sign in that for the faithful.\n",
+        "TRANSLATION_12": "Behold! in this is a sign for those who believed.\n",
+        "TRANSLATION_13": "Surely! Therein is indeed a sign for the believers.\n",
+        "TRANSLATION_14": "Surely, in that there is a sign for those who believe.\n",
+        "TRANSLATION_15": "Surely in that is a sign for the believers.\n",
+        "TRANSLATION_16": "Indeed in that is a sign for the believers.\n",
+        "TRANSLATION_17": "[15:77] There is indeed a sign, a lesson, in that for believers.\n",
+        "TRANSLATION_18": "Lo! Therein) in their destruction (is indeed a portent) a lesson (for believers).\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "15:75",
+            "15:77",
+            "23:30",
+            "7:174",
+            "45:3",
+            "20:54",
+            "26:8",
+            "26:121",
+            "26:103",
+            "26:174"
+        ],
+        "BIBLE": [
+            "prophets:jeremiah:44:29",
+            "torah:deuteronomy:28:46",
+            "torah:exodus:4:8",
+            "writings:psalms:135:9",
+            "torah:deuteronomy:34:11",
+            "prophets:isaiah:7:14",
+            "torah:deuteronomy:1:32",
+            "prophets:jeremiah:10:2",
+            "writings:psalms:74:9",
+            "prophets:isaiah:38:7"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:1:5",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:2:4",
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:1:10",
+            "Sefer%20Yetzirah:6:3",
+            "Sefer%20Yetzirah:4:1"
+        ]
+    }
+}

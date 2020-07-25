@@ -1,0 +1,63 @@
+{
+    "VERSE": "68:37",
+    "ARABIC": "\u0623\u064e\u0645\u0652 \u0644\u064e\u0643\u064f\u0645\u0652 \u0643\u0650\u062a\u064e\u0670\u0628\u064c \u0641\u0650\u064a\u0647\u0650 \u062a\u064e\u062f\u0652\u0631\u064f\u0633\u064f\u0648\u0646\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "Or do you have a Book which you study,",
+        "TRANSLATION_1": "Or have you a Book in which you read\n",
+        "TRANSLATION_2": "Or do you have a Book wherein you read\n",
+        "TRANSLATION_3": "Do you have a book from which you study\n",
+        "TRANSLATION_4": "Is there a Book for you, from which you read?\n",
+        "TRANSLATION_5": "Or have you a Book wherein you learn,\n",
+        "TRANSLATION_6": "Or have you a book wherein you read,\n",
+        "TRANSLATION_7": "Or have you a Book wherein you study?\n",
+        "TRANSLATION_8": "Or have ye a scripture wherein ye learn\n",
+        "TRANSLATION_9": "Have you a Scripture that tells you\n",
+        "TRANSLATION_10": "Is there with you a Book wherein ye study:\n",
+        "TRANSLATION_11": "Do you possess a scripture in which you read\n",
+        "TRANSLATION_12": "Or have ye a book through which ye learn-\n",
+        "TRANSLATION_13": "Or have you a Book through which you learn.\n",
+        "TRANSLATION_14": "Or, have you a Book from which you study\n",
+        "TRANSLATION_15": "Or do you have a scripture in which you study.\n",
+        "TRANSLATION_16": "Or do you have a scripture in which you learn\n",
+        "TRANSLATION_17": "[68:37] Or (am lakum means a-lakum) do you have a Scripture, revealed, wherein you learn, [wherein] you read,\n",
+        "TRANSLATION_18": "(Or have ye a Scripture wherein you learn) wherein you recite\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "68:37",
+            "56:78",
+            "37:157",
+            "52:2",
+            "43:21",
+            "21:10",
+            "6:155",
+            "37:117",
+            "83:9",
+            "83:20"
+        ],
+        "BIBLE": [
+            "writings:ecclesiastes:12:12",
+            "torah:exodus:24:7",
+            "prophets:ii%20kings:22:8",
+            "prophets:isaiah:44:8",
+            "writings:nehemiah:8:8",
+            "torah:numbers:21:14",
+            "prophets:joshua:8:34",
+            "prophets:jeremiah:36:13",
+            "writings:nehemiah:13:1",
+            "torah:numbers:31:15"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:1:4",
+            "Sefer%20Yetzirah:1:3",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:2:2",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:3:4",
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:4:3"
+        ]
+    }
+}

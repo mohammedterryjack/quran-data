@@ -1,0 +1,63 @@
+{
+    "VERSE": "37:120",
+    "ARABIC": "\u0633\u064e\u0644\u064e\u0670\u0645\u064c \u0639\u064e\u0644\u064e\u0649\u0670 \u0645\u064f\u0648\u0633\u064e\u0649\u0670 \u0648\u064e\u0647\u064e\u0670\u0631\u064f\u0648\u0646\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "'Peace be upon Musa and Harun!'",
+        "TRANSLATION_1": "Peace be on Moses and Aaron.\n",
+        "TRANSLATION_2": "Peace be upon Moses and Aaron.\n",
+        "TRANSLATION_3": "Peace be with Moses and Aaron.\n",
+        "TRANSLATION_4": "Peace be upon Moosa and Haroon!\n",
+        "TRANSLATION_5": "Salam (peace!) be upon Musa and Harun!\"\n",
+        "TRANSLATION_6": "Peace be on Musa and Haroun.\n",
+        "TRANSLATION_7": "Peace be upon Moses and, Aaron!'\n",
+        "TRANSLATION_8": "Peace be unto Moses and Aaron!\n",
+        "TRANSLATION_9": "Peace be upon Moses and Aaron!\"\n",
+        "TRANSLATION_10": "Peace be Unto Musa and Harun.\n",
+        "TRANSLATION_11": "\u2018Peace be to Moses and Aaron!\u2019\n",
+        "TRANSLATION_12": "Peace and salutation to Moses and Aaron!\"\n",
+        "TRANSLATION_13": "Salamun (peace) be upon Musa (Moses) and Harun (Aaron)!\"\n",
+        "TRANSLATION_14": "Peace be upon Moses and Aaron'\n",
+        "TRANSLATION_15": "Peace be upon Moses and Aaron.\n",
+        "TRANSLATION_16": "Peace upon Moses and Aaron.\"\n",
+        "TRANSLATION_17": "[37:120] \u2018Peace, from Us, be to Moses and Aaron!\u2019\n",
+        "TRANSLATION_18": "(Peace be unto Moses and Aaron) bliss and safety from Us unto Moses and Aaron!\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "37:120",
+            "37:181",
+            "37:109",
+            "37:130",
+            "37:79",
+            "43:89",
+            "15:46",
+            "19:15",
+            "21:69",
+            "51:25"
+        ],
+        "BIBLE": [
+            "torah:numbers:25:12",
+            "torah:leviticus:10:3",
+            "prophets:isaiah:52:7",
+            "torah:numbers:16:16",
+            "writings:psalms:120:7",
+            "torah:exodus:32:21",
+            "prophets:ezekiel:7:25",
+            "writings:psalms:128:6",
+            "torah:exodus:4:18",
+            "writings:psalms:122:7"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:4:1",
+            "Sefer%20Yetzirah:4:10",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:3:1",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:1:2",
+            "Sefer%20Yetzirah:4:3"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "VERSE": "15:24",
+    "ARABIC": "\u0648\u064e\u0644\u064e\u0642\u064e\u062f\u0652 \u0639\u064e\u0644\u0650\u0645\u0652\u0646\u064e\u0627 \u0671\u0644\u0652\u0645\u064f\u0633\u0652\u062a\u064e\u0642\u0652\u062f\u0650\u0645\u0650\u064a\u0646\u064e \u0645\u0650\u0646\u0643\u064f\u0645\u0652 \u0648\u064e\u0644\u064e\u0642\u064e\u062f\u0652 \u0639\u064e\u0644\u0650\u0645\u0652\u0646\u064e\u0627 \u0671\u0644\u0652\u0645\u064f\u0633\u0652\u062a\u064e\u0640\u0654\u0652\u062e\u0650\u0631\u0650\u064a\u0646\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "We know those of you who have gone ahead and those who are still to come.",
+        "TRANSLATION_1": "We surely know those of you who go forward and those of you who lag behind.\n",
+        "TRANSLATION_2": "Surely We know those of you who have passed before and those who will come later.\n",
+        "TRANSLATION_3": "We know the people who lived before you and those who will come into existence after you.\n",
+        "TRANSLATION_4": "And indeed We know those among you who came forward and indeed We know those among you who remained behind.\n",
+        "TRANSLATION_5": "And indeed, We know the first generations of you who have passed away, and indeed, We know the present generations of you (mankind), and also those who will come afterwards.\n",
+        "TRANSLATION_6": "And certainly We know those of you who have gone before and We certainly know those who shall come later.\n",
+        "TRANSLATION_7": "We know the ones of you who press forward, and We know the laggards;\n",
+        "TRANSLATION_8": "And verily We know the eager among you and verily We know the laggards.\n",
+        "TRANSLATION_9": "We know those who lived before you and those who will come after you.\n",
+        "TRANSLATION_10": "And assuredly We know those of you who have gone before and those who will come hereafter.\n",
+        "TRANSLATION_11": "Certainly We know the predecessors among you and certainly We know the successors,\n",
+        "TRANSLATION_12": "To Us are known those of you who hasten forward, and those who lag behind.\n",
+        "TRANSLATION_13": "And indeed, We know the first generations of you who had passed away, and indeed, We know the present generations of you (mankind), and also those who will come afterwards.\n",
+        "TRANSLATION_14": "We know those of you who press forward, and We know the laggards,\n",
+        "TRANSLATION_15": "And We know those of you who go forward, and We know those who lag behind.\n",
+        "TRANSLATION_16": "And We have already known the preceding [generations] among you, and We have already known the later [ones to come].\n",
+        "TRANSLATION_17": "[15:24] And verily We know the predecessors among you, that is, those creatures from Adam who have already passed, and verily We know the successors, those who will come afterwards, until the Day of Resurrection.\n",
+        "TRANSLATION_18": "(And verily We know the eager among you) i.e. those who have died of your fathers and mothers; it is also said that this means: those who come forward to the first line (and verily We know the laggards) those who are still alive among their sons and daughter; it is also said that this means: those who withdraw to the last line.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "15:24",
+            "28:51",
+            "37:75",
+            "37:72",
+            "7:114",
+            "15:9",
+            "69:49",
+            "15:23",
+            "26:42",
+            "7:21"
+        ],
+        "BIBLE": [
+            "prophets:hosea:6:3",
+            "prophets:joshua:2:5",
+            "prophets:joshua:8:14",
+            "torah:exodus:33:8",
+            "prophets:i%20samuel:9:13",
+            "prophets:joshua:3:4",
+            "writings:psalms:102:19",
+            "prophets:ii%20kings:10:9",
+            "prophets:ii%20samuel:15:24",
+            "torah:genesis:38:9"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:1:13",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:4:3",
+            "Sefer%20Yetzirah:6:1"
+        ]
+    }
+}

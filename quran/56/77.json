@@ -1,0 +1,63 @@
+{
+    "VERSE": "56:77",
+    "ARABIC": "\u0625\u0650\u0646\u0651\u064e\u0647\u064f\u06e5 \u0644\u064e\u0642\u064f\u0631\u0652\u0621\u064e\u0627\u0646\u064c \u0643\u064e\u0631\u0650\u064a\u0645\u064c",
+    "ENGLISH": {
+        "TRANSLATION_0": "it truly is a Noble Qur'an",
+        "TRANSLATION_1": "That this is indeed the glorious Qur'an\n",
+        "TRANSLATION_2": "that this indeed is a noble Qur'an,\n",
+        "TRANSLATION_3": "that this is an honorable Quran\n",
+        "TRANSLATION_4": "This is indeed the noble Qur\u2019an.\n",
+        "TRANSLATION_5": "That (this) is indeed an honorable recitation.\n",
+        "TRANSLATION_6": "Most surely it is an honored Quran,\n",
+        "TRANSLATION_7": "it is surely a noble Koran\n",
+        "TRANSLATION_8": "That (this) is indeed a noble Qur'an\n",
+        "TRANSLATION_9": "that this is indeed a noble Quran,\n",
+        "TRANSLATION_10": "That it is a Recitation honourable.\n",
+        "TRANSLATION_11": "This is indeed a noble Quran,\n",
+        "TRANSLATION_12": "That this is indeed a qur'an Most Honourable,\n",
+        "TRANSLATION_13": "That (this) is indeed an honourable recital (the Noble Quran).\n",
+        "TRANSLATION_14": "it is indeed a Glorious Koran,\n",
+        "TRANSLATION_15": "It is a noble Quran.\n",
+        "TRANSLATION_16": "Indeed, it is a noble Qur'an\n",
+        "TRANSLATION_17": "[56:77] This, namely, what is being recited to you, is indeed a noble Qur\u2019\u0101n,\n",
+        "TRANSLATION_18": "(That (this) is indeed a noble Qur'an) a noble and bounteous Qur'an\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "56:77",
+            "81:19",
+            "69:40",
+            "82:11",
+            "43:3",
+            "12:2",
+            "76:23",
+            "85:21",
+            "27:6",
+            "36:2"
+        ],
+        "BIBLE": [
+            "prophets:ii%20samuel:23:19",
+            "writings:i%20chronicles:11:21",
+            "writings:psalms:91:9",
+            "torah:numbers:22:15",
+            "writings:psalms:8:10",
+            "prophets:isaiah:63:15",
+            "prophets:zechariah:2:17",
+            "writings:daniel:4:21",
+            "writings:proverbs:3:33",
+            "writings:psalms:85:10"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:9",
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:1:7",
+            "Sefer%20Yetzirah:3:1",
+            "Sefer%20Yetzirah:3:2",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:1:10",
+            "Sefer%20Yetzirah:2:1",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:2:5"
+        ]
+    }
+}

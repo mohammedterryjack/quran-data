@@ -1,0 +1,63 @@
+{
+    "VERSE": "80:1",
+    "ARABIC": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0671\u0644\u0644\u0651\u064e\u0647\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0639\u064e\u0628\u064e\u0633\u064e \u0648\u064e\u062a\u064e\u0648\u064e\u0644\u0651\u064e\u0649\u0670\u0653",
+    "ENGLISH": {
+        "TRANSLATION_0": "He frowned and turned away",
+        "TRANSLATION_1": "HE FROWNED AND turned away,\n",
+        "TRANSLATION_2": "He frowned and turned away\n",
+        "TRANSLATION_3": "He frowned and then turned away\n",
+        "TRANSLATION_4": "He frowned and turned away.\n",
+        "TRANSLATION_5": "He frowned and turned away.\n",
+        "TRANSLATION_6": "He frowned and turned (his) back,\n",
+        "TRANSLATION_7": "He frowned and turned away\n",
+        "TRANSLATION_8": "He frowned and turned away\n",
+        "TRANSLATION_9": "He frowned and turned away\n",
+        "TRANSLATION_10": "He frowned and turned away.\n",
+        "TRANSLATION_11": "He frowned and turned away\n",
+        "TRANSLATION_12": "(The Prophet) frowned and turned away,\n",
+        "TRANSLATION_13": "(The Prophet (Peace be upon him)) frowned and turned away,\n",
+        "TRANSLATION_14": "He frowned and turned away\n",
+        "TRANSLATION_15": "He frowned and turned away.\n",
+        "TRANSLATION_16": "The Prophet frowned and turned away\n",
+        "TRANSLATION_17": "[80:1] He, the Prophet, frowned, glowered with his face, and turned away,\n",
+        "TRANSLATION_18": "And from his narration on the authority of Ibn 'Abbas that he said regarding the interpretation of Allah's saying (He frowned): '(He frowned) He says: Muhammad (pbuh) showed a stern face (and turned away) his face\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "80:1",
+            "70:18",
+            "74:22",
+            "74:23",
+            "92:16",
+            "1:5",
+            "79:21",
+            "70:17",
+            "74:6",
+            "112:3"
+        ],
+        "BIBLE": [
+            "prophets:hosea:14:5",
+            "writings:psalms:129:5",
+            "writings:job:19:19",
+            "prophets:isaiah:38:2",
+            "prophets:i%20kings:11:9",
+            "prophets:joshua:10:38",
+            "prophets:isaiah:50:5",
+            "prophets:malachi:2:6",
+            "writings:psalms:70:4",
+            "writings:psalms:66:20"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:4:10",
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:4:1",
+            "Sefer%20Yetzirah:4:5",
+            "Sefer%20Yetzirah:1:6",
+            "Sefer%20Yetzirah:4:6",
+            "Sefer%20Yetzirah:3:7",
+            "Sefer%20Yetzirah:4:8",
+            "Sefer%20Yetzirah:4:9",
+            "Sefer%20Yetzirah:3:6"
+        ]
+    }
+}

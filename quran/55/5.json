@@ -1,0 +1,63 @@
+{
+    "VERSE": "55:5",
+    "ARABIC": "\u0671\u0644\u0634\u0651\u064e\u0645\u0652\u0633\u064f \u0648\u064e\u0671\u0644\u0652\u0642\u064e\u0645\u064e\u0631\u064f \u0628\u0650\u062d\u064f\u0633\u0652\u0628\u064e\u0627\u0646\u064d",
+    "ENGLISH": {
+        "TRANSLATION_0": "The sun and the moon both run with precision.",
+        "TRANSLATION_1": "The sun and moon revolve to a computation;\n",
+        "TRANSLATION_2": "The sun and the moon follow a reckoning,\n",
+        "TRANSLATION_3": "The sun and moon rotate in a predestined orbit.\n",
+        "TRANSLATION_4": "The sun and the moon are scheduled.\n",
+        "TRANSLATION_5": "The sun and the moon (run) on fixed courses.\n",
+        "TRANSLATION_6": "The sun and the moon follow a reckoning.\n",
+        "TRANSLATION_7": "The sun and the moon to a reckoning,\n",
+        "TRANSLATION_8": "The sun and the moon are made punctual.\n",
+        "TRANSLATION_9": "The sun and the moon move according to a fixed reckoning;\n",
+        "TRANSLATION_10": "The sun and the moon are in a reckoning.\n",
+        "TRANSLATION_11": "The sun and the moon are [disposed] calculatedly,\n",
+        "TRANSLATION_12": "The sun and the moon follow courses (exactly) computed;\n",
+        "TRANSLATION_13": "The sun and the moon run on their fixed courses (exactly) calculated with measured out stages for each (for reckoning, etc.).\n",
+        "TRANSLATION_14": "The sun and the moon to a reckoning.\n",
+        "TRANSLATION_15": "The sun and the moon move according to plan.\n",
+        "TRANSLATION_16": "The sun and the moon [move] by precise calculation,\n",
+        "TRANSLATION_17": "[55:5] The sun and the moon follow a reckoning, they move according to a [strict] calculation,\n",
+        "TRANSLATION_18": "(The sun and the moon are made punctual) their orbits are measured; and it is also said that this means: they are suspended half way between heaven and earth; and it is also said that this means: they both will be taken to task and have a lifespan like the lifespan of human beings.\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "55:5",
+            "75:9",
+            "6:96",
+            "75:8",
+            "14:33",
+            "71:16",
+            "84:18",
+            "74:32",
+            "91:1",
+            "91:2"
+        ],
+        "BIBLE": [
+            "writings:psalms:19:6",
+            "writings:psalms:104:10",
+            "prophets:ezekiel:31:4",
+            "prophets:i%20kings:19:20",
+            "writings:psalms:18:30",
+            "prophets:joel:2:4",
+            "torah:genesis:24:28",
+            "torah:numbers:19:17",
+            "writings:proverbs:6:18",
+            "prophets:ii%20samuel:15:1"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:1:8",
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:4:4",
+            "Sefer%20Yetzirah:1:4",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:4:3",
+            "Sefer%20Yetzirah:4:11",
+            "Sefer%20Yetzirah:2:4",
+            "Sefer%20Yetzirah:4:8",
+            "Sefer%20Yetzirah:6:5"
+        ]
+    }
+}

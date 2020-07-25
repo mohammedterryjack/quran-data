@@ -1,0 +1,63 @@
+{
+    "VERSE": "96:1",
+    "ARABIC": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0671\u0644\u0644\u0651\u064e\u0647\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0671\u0642\u0652\u0631\u064e\u0623\u0652 \u0628\u0650\u0671\u0633\u0652\u0645\u0650 \u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0671\u0644\u0651\u064e\u0630\u0650\u0649 \u062e\u064e\u0644\u064e\u0642\u064e",
+    "ENGLISH": {
+        "TRANSLATION_0": "Recite: In the Name of your Lord who created,",
+        "TRANSLATION_1": "READ IN THE name of your Lord who created,\n",
+        "TRANSLATION_2": "Recite in the name of your Lord Who created,\n",
+        "TRANSLATION_3": "(Muhammad), read in the name of your Lord who created (all things).\n",
+        "TRANSLATION_4": "Read with the name of your Lord Who created,\n",
+        "TRANSLATION_5": "Read! In the Name of your Lord Who created.\n",
+        "TRANSLATION_6": "Read in the name of your Lord Who created.\n",
+        "TRANSLATION_7": "Recite: In the Name of thy Lord who created,\n",
+        "TRANSLATION_8": "Read: In the name of thy Lord Who createth,\n",
+        "TRANSLATION_9": "Read! In the name of your Lord, who created:\n",
+        "TRANSLATION_10": "Recite thou in the name of thy Lord Who hath created -\n",
+        "TRANSLATION_11": "Read in the Name of your Lord who created;\n",
+        "TRANSLATION_12": "Proclaim! (or read!) in the name of thy Lord and Cherisher, Who created-\n",
+        "TRANSLATION_13": "Read! In the Name of your Lord, Who has created (all that exists),\n",
+        "TRANSLATION_14": "Read (Prophet Muhammad) in the Name of your Lord who created,\n",
+        "TRANSLATION_15": "Read: In the Name of your Lord who created.\n",
+        "TRANSLATION_16": "Recite in the name of your Lord who created -\n",
+        "TRANSLATION_17": "[96:1] (Meccan, consisting of 19 verses; from the beginning of it up to [the verse] what he did not know, was the first of the Qur\u2019\u0101n to be revealed, in the cave at Hir\u0101\u2019, as reported by al-Bukh\u0101r\u012b.) Recite, bring recitation into existence, beginning with: In the Name of your Lord Who created, all creatures;\n",
+        "TRANSLATION_18": "And from his narration on the authority of Ibn 'Abbas that he said regarding the interpretation of Allah's saying (Read): '(Read) He says: Read, Muhammad, the Qur'an; this is the first revelation that Gabriel brought down: (In the name of thy Lord) by the command of your Lord (Who createth) the created beings,\n"
+    },
+    "CROSS_REFERENCE": {
+        "QURAN": [
+            "96:1",
+            "73:8",
+            "87:15",
+            "56:96",
+            "56:74",
+            "69:52",
+            "87:1",
+            "55:78",
+            "76:25",
+            "23:39"
+        ],
+        "BIBLE": [
+            "prophets:i%20samuel:3:17",
+            "writings:psalms:126:3",
+            "writings:proverbs:6:16",
+            "writings:psalms:72:18",
+            "writings:i%20chronicles:17:26",
+            "torah:genesis:22:16",
+            "torah:deuteronomy:18:22",
+            "prophets:ii%20kings:23:17",
+            "torah:leviticus:2:8",
+            "prophets:isaiah:25:1"
+        ],
+        "KABBALAH": [
+            "Sefer%20Yetzirah:5:4",
+            "Sefer%20Yetzirah:6:4",
+            "Sefer%20Yetzirah:1:1",
+            "Sefer%20Yetzirah:2:5",
+            "Sefer%20Yetzirah:4:12",
+            "Sefer%20Yetzirah:3:3",
+            "Sefer%20Yetzirah:4:2",
+            "Sefer%20Yetzirah:1:2",
+            "Sefer%20Yetzirah:6:1",
+            "Sefer%20Yetzirah:3:2"
+        ]
+    }
+}
